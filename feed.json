@@ -1,0 +1,358 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Samuel Lison",
+	"icon": "https://micro.blog/slison/avatar.jpg",
+	"home_page_url": "https://samuellison.com/",
+	"feed_url": "https://samuellison.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://slison.micro.blog/2025/02/08/083716.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/@th3Powell/the-psychology-of-privacy-why-do-we-value-it-677d74d42689\">medium.com/@th3Powel&hellip;</a></p>\n<p>[The Psychology of Privacy: Why Do We Value It?]</p>\n",
+				"content_text": "[medium.com/@th3Powel...](https://medium.com/@th3Powell/the-psychology-of-privacy-why-do-we-value-it-677d74d42689)\n\n[The Psychology of Privacy: Why Do We Value It?]\n",
+				"date_published": "2025-02-08T08:37:16+11:00",
+				"url": "https://samuellison.com/2025/02/08/083716.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/02/07/i-have-been-playing-civilisation.html",
+				
+				"content_html": "<p>I have been playing Civilisation VII early.</p>\n<p>So far, I&rsquo;m loving it. See how long that love lasts and if it can beat the classics!</p>\n<p><a href=\"https://civilization.2k.com/civ-vii/\">civilization.2k.com/civ-vii/</a></p>\n",
+				"content_text": "I have been playing Civilisation VII early.\r\n\r\nSo far, I'm loving it. See how long that love lasts and if it can beat the classics!\r\n\r\n[civilization.2k.com/civ-vii/](https://civilization.2k.com/civ-vii/)\n",
+				"date_published": "2025-02-07T08:17:37+11:00",
+				"url": "https://samuellison.com/2025/02/07/i-have-been-playing-civilisation.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/02/07/so-for-us-australians-that.html",
+				
+				"content_html": "<p>So for us #Australians that have seen what&rsquo;s going on in #USA - guess with our next #election coming up, we need to consider what choices we have.</p>\n<p>Bit of a fun video:\n<a href=\"https://www.youtube.com/watch?app=desktop&amp;v=-oxQ5fmiI9M\">www.youtube.com/watch</a></p>\n",
+				"content_text": "So for us #Australians that have seen what's going on in #USA - guess with our next #election coming up, we need to consider what choices we have.\r\n\r\nBit of a fun video:\r\n[www.youtube.com/watch](https://www.youtube.com/watch?app=desktop&v=-oxQ5fmiI9M)\n",
+				"date_published": "2025-02-07T07:55:46+11:00",
+				"url": "https://samuellison.com/2025/02/07/so-for-us-australians-that.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/02/05/so-with-these-new-law.html",
+				
+				"content_html": "<p>So with these new law changes coming eventually to social media, including the need to verify ourselves with ID to prove our age - how does that look for #Mastodon and other #Fediverse social media? In particular the larger instances that have responsibility to its user base under their own countries laws?</p>\n<p>I don&rsquo;t think this would affect small private servers in any way, but I&rsquo;m interested to know more&hellip;</p>\n",
+				"content_text": "So with these new law changes coming eventually to social media, including the need to verify ourselves with ID to prove our age - how does that look for #Mastodon and other #Fediverse social media? In particular the larger instances that have responsibility to its user base under their own countries laws?\r\n\r\nI don't think this would affect small private servers in any way, but I'm interested to know more...\n",
+				"date_published": "2025-02-05T19:58:32+11:00",
+				"url": "https://samuellison.com/2025/02/05/so-with-these-new-law.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/02/05/do-you-like-pranking-your.html",
+				
+				"content_html": "<p>Do you like #pranking your colleagues at work?</p>\n<p>Found this cool website with loads of fun #pranks</p>\n<p><a href=\"https://pranx.com/\">pranx.com</a></p>\n",
+				"content_text": "Do you like #pranking your colleagues at work?\r\n\r\nFound this cool website with loads of fun #pranks\r\n\r\n[pranx.com](https://pranx.com/)\n",
+				"date_published": "2025-02-05T15:00:17+11:00",
+				"url": "https://samuellison.com/2025/02/05/do-you-like-pranking-your.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/02/03/wow-this-brought-back-some.html",
+				
+				"content_html": "<p>Wow, this brought back some memories.</p>\n<p>It&rsquo;s just a shame that you cannot create an account behind a Proxy, VPN or Tor.</p>\n<p>Might have to ask #DeepSeek to code my own version&hellip;</p>\n<p><a href=\"https://legendreddragon.net/\">legendreddragon.net</a></p>\n",
+				"content_text": "Wow, this brought back some memories. \r\n\r\nIt's just a shame that you cannot create an account behind a Proxy, VPN or Tor.\r\n\r\nMight have to ask #DeepSeek to code my own version...\r\n\r\n[legendreddragon.net](https://legendreddragon.net/)\n",
+				"date_published": "2025-02-03T21:23:57+11:00",
+				"url": "https://samuellison.com/2025/02/03/wow-this-brought-back-some.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/02/03/to-my-fellow-privacy-focused.html",
+				
+				"content_html": "<p>To my fellow #privacy focused individuals. I&rsquo;ve been using a #Fitbit for some time, and as you are aware, #Google purchased the brand a while ago now, and I have been #De-Googling my life.</p>\n<p>What solutions have you found for #fitnesstracking? I&rsquo;d be interested to know about any #OpenSource tracking options that work well with GPS and hiking apps such as #Alltrails, or other alternatives.</p>\n<p>I&rsquo;m new to this area of privacy! Beyond just taking the tracker off completely and going without.</p>\n",
+				"content_text": "To my fellow #privacy focused individuals. I've been using a #Fitbit for some time, and as you are aware, #Google purchased the brand a while ago now, and I have been #De-Googling my life.\r\n\r\nWhat solutions have you found for #fitnesstracking? I'd be interested to know about any #OpenSource tracking options that work well with GPS and hiking apps such as #Alltrails, or other alternatives.\r\n\r\nI'm new to this area of privacy! Beyond just taking the tracker off completely and going without.\n",
+				"date_published": "2025-02-03T11:17:35+11:00",
+				"url": "https://samuellison.com/2025/02/03/to-my-fellow-privacy-focused.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/02/03/if-you-followed-me-for.html",
+				
+				"content_html": "<p>If you followed me for photography but notice I now boost varied content, follow my photo-only account: <a href=\"https://photos.familylison.com/@sporetrail.\">photos.familylison.com/@sporetra&hellip;</a> Feel free to unfollow here if uninterested. This account will share daily thoughts on diverse topics. #PixelFed is for photography; Mastodon for thoughts and long-form hike/photo posts.</p>\n",
+				"content_text": "If you followed me for photography but notice I now boost varied content, follow my photo-only account: [photos.familylison.com/@sporetra...](https://photos.familylison.com/@sporetrail.) Feel free to unfollow here if uninterested. This account will share daily thoughts on diverse topics. #PixelFed is for photography; Mastodon for thoughts and long-form hike/photo posts.\n",
+				"date_published": "2025-02-03T10:38:09+11:00",
+				"url": "https://samuellison.com/2025/02/03/if-you-followed-me-for.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/02/02/this-post-is-basically-a.html",
+				"title": "My First Photos!",
+				"content_html": "<p>This post is basically a re-post of some of my favourite photos so that you are able to find them.</p>\n<p>When I transitioned my website from using Wordpress to Micro.blog I lost access to my old posts and the media I had uploaded to that server.</p>\n<p>Luckily, I only had 3 articles so far, as I was still finishing my web design and waiting on some new gear to go out and photograph with.</p>\n<p>Below are my favourite photos that were all taken using a <strong>Nikon D7000</strong> while out hiking in various locations of Victoria.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>I will make all of these photos available on my <a href=\"https://https://www.patreon.com/thesporetrail\">Patron</a> page for FREE. You can become a member for free and download all of these in their original format.</p>\n<p>They may not currently be in 16:9 ratio and optimized for Social Media content, but these are my first attempts at photography and will always hold a #nostalgic place to me.</p>\n<p>I am sure that you will enjoy these. Please let me know in the comments what you think.</p>",
+				"content_text": "This post is basically a re-post of some of my favourite photos so that you are able to find them.\n\nWhen I transitioned my website from using Wordpress to Micro.blog I lost access to my old posts and the media I had uploaded to that server.\n\nLuckily, I only had 3 articles so far, as I was still finishing my web design and waiting on some new gear to go out and photograph with.\n\nBelow are my favourite photos that were all taken using a **Nikon D7000** while out hiking in various locations of Victoria.\n<!--more-->\n<figure>\n  <img src=\"https://samuellison.com/uploads/2025/organ-pipes-16-9-4k.jpg\" alt=\"A panoramic photo of the Organ Pipes, a geological formation in Organ Pipes National Park, Victoria, Australia. The tall, column-like basalt structures rise from the green landscape, surrounded by trees and shrubs.\" title=\"Organ Pipes\">\n  <figcaption>Captured a million-year-old masterpiece: the Organ Pipes, a towering basalt formation in Victoria, Australia. 🌿 This panoramic photo holds a special place as my first detailed wide shot from my Nikon D7000.</figcaption>\n</figure>\n\n<figure>\n  <img src=\"https://samuellison.com/uploads/2025/fungi-344.jpg\" alt=\"A group of red and brown spotted mushrooms emerging from the forest floor, surrounded by blurred green foliage.\" title=\"Forest Jewels\">\n  <figcaption>Nature's tiny wonders: a cluster of spotted mushrooms thriving amidst the forest's undergrowth, showcasing the beauty of the wild.</figcaption>\n</figure>\n\n<figure>\n  <img src=\"https://samuellison.com/uploads/2025/orchid-14.jpg\" alt=\"A delicate spray of white orchids with red centers and yellow highlights, softly lit against a blurred garden backdrop.\" title=\"Forest Jewels\">\n  <figcaption>Captured these delicate orchids in my backyard using my old Nikon camera. Practicing light and shadows, I'm finding beauty in the small details of nature right at home. 📸 Excited to keep learning and improving!</figcaption>\n</figure>\n\n\nI will make all of these photos available on my [Patron](https://https://www.patreon.com/thesporetrail) page for FREE. You can become a member for free and download all of these in their original format.\n\nThey may not currently be in 16:9 ratio and optimized for Social Media content, but these are my first attempts at photography and will always hold a #nostalgic place to me.\n\nI am sure that you will enjoy these. Please let me know in the comments what you think.\n\n\n",
+				"date_published": "2025-02-02T12:16:40+11:00",
+				"url": "https://samuellison.com/2025/02/02/this-post-is-basically-a.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/28/im-really-liking-the-new.html",
+				
+				"content_html": "<p>I&rsquo;m really liking the new #Pixelfed UI.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm really liking the new #Pixelfed UI.\n\n<img src=\"https://samuellison.com/uploads/2025/screenshot-from-2025-01-28-17-51-10.png\" width=\"483\" height=\"600\" alt=\"A social media post showcases a scenic view of a wooden footpath leading to a tranquil river surrounded by lush greenery.\">\n",
+				"date_published": "2025-01-28T17:53:48+11:00",
+				"url": "https://samuellison.com/2025/01/28/im-really-liking-the-new.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/28/this-is-one-of-my.html",
+				
+				"content_html": "<p>This is one of my first Nature Walk videos that I had my daughter film for me while we went on a walk around the Brimbank Park, local to me.</p>\n<p>Uploaded on #MakerTuber (using #PeerTube) in 4K60FPS quality!</p>\n<p>Let me know what you think: <a href=\"https://makertube.net/w/okKLSw4Qjt8ZguFtYdG6Dz\">makertube.net/w/okKLSw4&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is one of my first Nature Walk videos that I had my daughter film for me while we went on a walk around the Brimbank Park, local to me.\n\nUploaded on #MakerTuber (using #PeerTube) in 4K60FPS quality!\n\nLet me know what you think: [makertube.net/w/okKLSw4...](https://makertube.net/w/okKLSw4Qjt8ZguFtYdG6Dz)\n\n<iframe title=\"🌿 Relaxing 4K Nature Walk at Brimbank Park | Soothing Sounds of Nature & Birds | 60FPS 1-Hour Walk\" width=\"560\" height=\"315\" src=\"https://makertube.net/videos/embed/b4eb289a-d774-43b6-9175-0540b2fb0877\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\"></iframe>\n",
+				"date_published": "2025-01-28T13:19:48+11:00",
+				"url": "https://samuellison.com/2025/01/28/this-is-one-of-my.html",
+				"tags": ["Video"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/27/minutes-of-skipping-in-degree.html",
+				
+				"content_html": "<p>30 minutes of skipping in 40 degree celcius = 150-160bpm heart rate.</p>\n<p>Feeling good. Go away belly fat lol</p>\n",
+				"content_text": "30 minutes of skipping in 40 degree celcius = 150-160bpm heart rate.\n\n\nFeeling good. Go away belly fat lol\n",
+				"date_published": "2025-01-27T17:35:49+11:00",
+				"url": "https://samuellison.com/2025/01/27/minutes-of-skipping-in-degree.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/27/post-by-feditipssocialgrowyourownservices-view-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>This post and the comments within go on to explain the difference between Bluesky and the Fediverse. Quite interesting, and the main reason I chose to host my own Fediverse Instances over Bluesky.</p>\n",
+				"content_text": "<blockquote class=\"mastodon-embed\" data-embed-url=\"https://social.growyourown.services/@FediTips/113896029909649321/embed\" style=\"background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;\"> <a href=\"https://social.growyourown.services/@FediTips/113896029909649321\" target=\"_blank\" style=\"align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;\"> <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"32\" height=\"32\" viewBox=\"0 0 79 75\"><path d=\"M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z\" fill=\"currentColor\"/></svg> <div style=\"color: #787588; margin-top: 16px;\">Post by [@FediTips@social.growyourown.services](https://micro.blog/FediTips@social.growyourown.services)</div> <div style=\"font-weight: 500;\">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes=\"https://social.growyourown.services/\" async src=\"https://social.growyourown.services/embed.js\"></script>\r\n\r\nThis post and the comments within go on to explain the difference between Bluesky and the Fediverse. Quite interesting, and the main reason I chose to host my own Fediverse Instances over Bluesky.\n",
+				"date_published": "2025-01-27T14:15:47+11:00",
+				"url": "https://samuellison.com/2025/01/27/post-by-feditipssocialgrowyourownservices-view-on.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/27/first-night-of-night-shift.html",
+				
+				"content_html": "<p>First night of night shift is always a struggle (yawn).</p>\n",
+				"content_text": "First night of night shift is always a struggle (yawn).\n",
+				"date_published": "2025-01-27T04:20:26+11:00",
+				"url": "https://samuellison.com/2025/01/27/first-night-of-night-shift.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/26/post-by-grobidefconsocial-view-on.html",
+				
+				"content_html": "<p>Https://youtube.com/watch?v=KRsMnTeCnG\n8</p>\n<p>Here is a neat video explaining what the IndieWeb is, and why I decided to create my own domain and website using IndieWeb principals.</p>\n<p>Come join the movement :)</p>\n",
+				"content_text": "Https://youtube.com/watch?v=KRsMnTeCnG\n8\n\nHere is a neat video explaining what the IndieWeb is, and why I decided to create my own domain and website using IndieWeb principals. \n\nCome join the movement :)\n",
+				"date_published": "2025-01-26T18:54:31+11:00",
+				"url": "https://samuellison.com/2025/01/26/post-by-grobidefconsocial-view-on.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/25/well-that-was-a-fun.html",
+				
+				"content_html": "<p>Well, that was a fun hike with the wife. 12.44km and a 332m elevation gain. Beautiful temperature of 20 before the 40 degrees hit on Monday (Celsius)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Well, that was a fun hike with the wife. 12.44km and a 332m elevation gain. Beautiful temperature of 20 before the 40 degrees hit on Monday (Celsius)\n\n<img src=\"https://samuellison.com/uploads/2025/image.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-01-25T18:15:28+11:00",
+				"url": "https://samuellison.com/2025/01/25/well-that-was-a-fun.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/24/project-completed-ethernet-cable-routed.html",
+				
+				"content_html": "<p>Project completed. Ethernet cable routed through my double story house, with switches, to our NBN fiber modem connection. Now enjoying 1000Mbps speeds direct to the PC, instead of what I was getting, 300 via WiFi mesh.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Project completed. Ethernet cable routed through my double story house, with switches, to our NBN fiber modem connection. Now enjoying 1000Mbps speeds direct to the PC, instead of what I was getting, 300 via WiFi mesh.\n\n<img src=\"https://samuellison.com/uploads/2025/screenshot-from-2025-01-24-15-31-32.png\" width=\"600\" height=\"432\" alt=\"\">\n",
+				"date_published": "2025-01-24T19:52:46+11:00",
+				"url": "https://samuellison.com/2025/01/24/project-completed-ethernet-cable-routed.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/24/plan-on-going-on-a.html",
+				
+				"content_html": "<p>Plan on going on a hike in the Brisbane Ranges tomorrow with my wife. A nice 12.2km trail with a 314m elevation gain up the mountain. Should be fun! Can&rsquo;t wait!</p>\n<p><a href=\"https://www.alltrails.com/trail/australia/victoria/ted-errey-nature-circuit-via-anakie-gorge\">www.alltrails.com/trail/aus&hellip;</a></p>\n",
+				"content_text": "Plan on going on a hike in the Brisbane Ranges tomorrow with my wife. A nice 12.2km trail with a 314m elevation gain up the mountain. Should be fun! Can't wait!\r\n\r\n[www.alltrails.com/trail/aus...](https://www.alltrails.com/trail/australia/victoria/ted-errey-nature-circuit-via-anakie-gorge)\n",
+				"date_published": "2025-01-24T13:07:15+11:00",
+				"url": "https://samuellison.com/2025/01/24/plan-on-going-on-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/24/post-by-gtronixdefconsocial-view-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote class=\"mastodon-embed\" data-embed-url=\"https://defcon.social/@gtronix/113880387305359971/embed\" style=\"background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;\"> <a href=\"https://defcon.social/@gtronix/113880387305359971\" target=\"_blank\" style=\"align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;\"> <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"32\" height=\"32\" viewBox=\"0 0 79 75\"><path d=\"M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z\" fill=\"currentColor\"/></svg> <div style=\"color: #787588; margin-top: 16px;\">Post by [@gtronix@defcon.social](https://micro.blog/gtronix@defcon.social)</div> <div style=\"font-weight: 500;\">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes=\"https://defcon.social/\" async src=\"https://defcon.social/embed.js\"></script>\r\nInteresting article. And here in Australia is is not just about porn sites, but all social media access requiring \"age verification\". The age of online government issued ID is fast approaching, and speaking anonymously online without fear of losing your employment, is soon coming to an end.\n",
+				"date_published": "2025-01-24T11:44:47+11:00",
+				"url": "https://samuellison.com/2025/01/24/post-by-gtronixdefconsocial-view-on.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/24/post-by-pixelfedmastodonsocial-view-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Fediverse is an important step in the freedom of the internet and owning our own data.</p>\n<p>I enjoy sharing my photos on Pixelfed where there are no algorithms, likes and views.</p>\n",
+				"content_text": "<blockquote class=\"mastodon-embed\" data-embed-url=\"https://mastodon.social/@pixelfed/113865200851354827/embed\" style=\"background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;\"> <a href=\"https://mastodon.social/@pixelfed/113865200851354827\" target=\"_blank\" style=\"align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;\"> <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"32\" height=\"32\" viewBox=\"0 0 79 75\"><path d=\"M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z\" fill=\"currentColor\"/></svg> <div style=\"color: #787588; margin-top: 16px;\">Post by [@pixelfed@mastodon.social](https://micro.blog/pixelfed@mastodon.social)</div> <div style=\"font-weight: 500;\">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes=\"https://mastodon.social/\" async src=\"https://mastodon.social/embed.js\"></script>\r\nI respect a project that can resist the pressures of being bought out by investors and taking away the voice of the people that use the platform.\r\n\r\nFediverse is an important step in the freedom of the internet and owning our own data.\r\n\r\nI enjoy sharing my photos on Pixelfed where there are no algorithms, likes and views.\n",
+				"date_published": "2025-01-24T08:03:26+11:00",
+				"url": "https://samuellison.com/2025/01/24/post-by-pixelfedmastodonsocial-view-on.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/23/im-still-having-fun-making.html",
+				
+				"content_html": "<p>I&rsquo;m still having fun making this new website. Lots of coding. I have not done HTML in more than 25 years!\nTake a look if you like and let me know your thoughts. <a href=\"https://samuellison.com\">samuellison.com</a></p>\n",
+				"content_text": "I'm still having fun making this new website. Lots of coding. I have not done HTML in more than 25 years!\r\nTake a look if you like and let me know your thoughts. [samuellison.com](https://samuellison.com)\n",
+				"date_published": "2025-01-23T23:53:30+11:00",
+				"url": "https://samuellison.com/2025/01/23/im-still-having-fun-making.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/23/post-by-cyberkiddefconsocial-view-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Interesting. Though when it comes to WiFi and Bluetooth, make sure that you also turn off WiFi and Bluetooth scanning, as those run in the background even with WiFi and Bluetooth off and allow your devices to be found.</p>\n",
+				"content_text": "<blockquote class=\"mastodon-embed\" data-embed-url=\"https://defcon.social/@Cyberkid1987/113876609239217129/embed\" style=\"background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;\"> <a href=\"https://defcon.social/@Cyberkid1987/113876609239217129\" target=\"_blank\" style=\"align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;\"> <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"32\" height=\"32\" viewBox=\"0 0 79 75\"><path d=\"M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z\" fill=\"currentColor\"/></svg> <div style=\"color: #787588; margin-top: 16px;\">Post by @Cyberkid1987@defcon.social</div> <div style=\"font-weight: 500;\">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes=\"https://defcon.social/\" async src=\"https://defcon.social/embed.js\"></script>\n\nInteresting. Though when it comes to WiFi and Bluetooth, make sure that you also turn off WiFi and Bluetooth scanning, as those run in the background even with WiFi and Bluetooth off and allow your devices to be found.\n",
+				"date_published": "2025-01-23T20:12:55+11:00",
+				"url": "https://samuellison.com/2025/01/23/post-by-cyberkiddefconsocial-view-on.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/22/ive-decided-to-support-the.html",
+				
+				"content_html": "<p>I&rsquo;ve decided to support the fediverse and indieweb movements more by transitioning my website and online identity, own my own data and POSSE my posts across the various social media silos and make use of Webmentions. Still a lot of work to go, but making my own HTML is fun! Https://samuellison.com</p>\n",
+				"content_text": "I've decided to support the fediverse and indieweb movements more by transitioning my website and online identity, own my own data and POSSE my posts across the various social media silos and make use of Webmentions. Still a lot of work to go, but making my own HTML is fun! Https://samuellison.com\n",
+				"date_published": "2025-01-22T22:52:12+11:00",
+				"url": "https://samuellison.com/2025/01/22/ive-decided-to-support-the.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/20/while-trying-to-get-fit.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>While trying to get fit, I&#39;ve been adding 30 minutes of jump rope / skipping to my daily routine and I put on hardstyle trance music. The last track however, happened to be 240bpm, that&#39;s 4 beats per second. Meaning, I was jumping and hitting the floor 4 times per second to this particular track.</p><p>I&#39;m buggered.</p>\n",
+				"date_published": "2025-01-20T12:47:18+11:00",
+				"url": "https://samuellison.com/2025/01/20/while-trying-to-get-fit.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/17/a-new-printer-will-this.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A New Printer: Will this mean I start making my own prints? <br />So just the other day, my step-father purchased a new photo printer as he’s an avid professional photographer and makes a lot of photo prints for his clients and for the family.<br />I was lucky enough to be gifted with his old printer, which is a tried and tested Epson Photo Stylus R3000.<br />Fun with Aspect Ratios …<br /><a href=\"https://www.samuellison.com/a-new-printer/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">samuellison.com/a-new-printer/</span><span class=\"invisible\"></span></a></p><p><img src=\"https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/841/788/786/069/596/original/7486f71908a309e5.jpg\">\n",
+				"date_published": "2025-01-17T15:24:04+11:00",
+				"url": "https://samuellison.com/2025/01/17/a-new-printer-will-this.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/15/i-am-moving-away-from.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I am moving away from YouTube for my hiking and photography channel.<br />My videos are currently importing and syncing with my existing channel, and I will shut down the YouTube channel once all that is done. I&#39;ve been moving away from centralized social media over the last few months which works fine for me, as I&#39;ve never been one to care about views, likes or shares, but more into community which the Fediverse definitely has show me it has: <a href=\"https://makertube.net/c/thesporetrail/videos\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">makertube.net/c/thesporetrail/</span><span class=\"invisible\">videos</span></a></p>\n",
+				"date_published": "2025-01-16T10:10:26+11:00",
+				"url": "https://samuellison.com/2025/01/15/i-am-moving-away-from.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/15/and-this-is-my-daily.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>And this is my daily runner and my editing setup. Bit of a creation HUB for live streaming as well for a game I have been working on for years.</p><p>This system runs Pop!_OS and a 43 inch 4k HDR monitor.</p><p><img src=\"https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/831/584/882/225/376/original/3adc8ae9062f69b0.jpg\">\n",
+				"date_published": "2025-01-15T20:10:49+11:00",
+				"url": "https://samuellison.com/2025/01/15/and-this-is-my-daily.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/15/my-new-printing-station-i.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>My new printing station. I got gifted an Epson Stylus Photo R3000, so happy!</p><p>Got some old monitors and a laptop HUB and will use this space purely for printing purposes. The laptop is running Windows to cover me for windows native apps I still use for certain tasks.</p><p>I can do up to A3 prints and in rolls too for panoramic.</p><p><img src=\"https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/831/571/365/402/169/original/c078a25da7c6fe3d.jpg\">\n",
+				"date_published": "2025-01-15T20:07:51+11:00",
+				"url": "https://samuellison.com/2025/01/15/my-new-printing-station-i.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/15/just-a-random-photo-taken.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Just a random photo taken with my Pixel 7 Pro on GrapheneOS while I was on a walking track.</p><p><img src=\"https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/831/325/000/456/800/original/6181d599282a1dcf.jpg\">\n",
+				"date_published": "2025-01-15T19:02:57+11:00",
+				"url": "https://samuellison.com/2025/01/15/just-a-random-photo-taken.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/01/14/barredo-i-would-like-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Barredo\" class=\"u-url mention\">@<span>Barredo</span></a></span> I would like to thank you for Mastodeck. Amazing tool!<br /><a href=\"https://mastodeck.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mastodeck.com/</span><span class=\"invisible\"></span></a></p>\n",
+				"date_published": "2025-01-14T21:13:15+11:00",
+				"url": "https://samuellison.com/2025/01/14/barredo-i-would-like-to.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2024/12/22/033939.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.alltrails.com/explore/recording/activity-december-22-2024-f740c8d?unfurl=false&amp;utm_campaign=memory&amp;showMemory=true&amp;sh=mikwrk\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">alltrails.com/explore/recordin</span><span class=\"invisible\">g/activity-december-22-2024-f740c8d?unfurl=false&amp;utm_campaign=memory&amp;showMemory=true&amp;sh=mikwrk</span></a></p><p><video src=\"https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/694/393/745/060/548/original/118bfcdc2d7066cf.mp4\"></video>\n",
+				"date_published": "2024-12-22T14:39:39+11:00",
+				"url": "https://samuellison.com/2024/12/22/033939.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2024/12/17/of-my-favorite-moments-captured.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🌿 11 of my favorite moments captured in nature are now available! These earlier works reflect the start of my hiking and photography journey.</p><p>Pay what you feel they’re worth—your support funds my hikes, gear, and passion. 📸</p><p>Read more and explore the collection here:<br />👉 <a href=\"https://www.samuellison.com/11-moments-captured-my-favourite-photos-now-available-for-you/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">samuellison.com/11-moments-cap</span><span class=\"invisible\">tured-my-favourite-photos-now-available-for-you/</span></a></p><p><a href=\"https://social.familylison.com/tags/NaturePhotography\" class=\"mention hashtag\" rel=\"tag\">#<span>NaturePhotography</span></a>  <a href=\"https://social.familylison.com/tags/HikingAdventures\" class=\"mention hashtag\" rel=\"tag\">#<span>HikingAdventures</span></a></p>\n",
+				"date_published": "2024-12-17T16:24:43+11:00",
+				"url": "https://samuellison.com/2024/12/17/of-my-favorite-moments-captured.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2024/12/04/finally-got-my-pixelfed-instance.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Finally got my <a href=\"https://social.familylison.com/tags/PixelFed\" class=\"mention hashtag\" rel=\"tag\">#<span>PixelFed</span></a>  instance working and have been uploading some of my photos to it that I took recently. Since I won&#39;t be using <a href=\"https://social.familylison.com/tags/Instagram\" class=\"mention hashtag\" rel=\"tag\">#<span>Instagram</span></a>  anymore.</p><p>You may seen a bunch of photos show up on your feed, enjoy :)</p>\n",
+				"date_published": "2024-12-05T09:56:25+11:00",
+				"url": "https://samuellison.com/2024/12/04/finally-got-my-pixelfed-instance.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2024/12/04/conquered-the-steep-climb-up.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🏞️ Conquered the steep climb up Lerderderg Gorge Circuit with a 15kg ruck! 💪 Sweating like my 20s all over again, but loving every moment. The views, the challenge, and the solitude made it all worth it. Pushing limits, embracing adventure, and savouring the journey! 🌿 <a href=\"https://social.familylison.com/tags/LerderdergGorge\" class=\"mention hashtag\" rel=\"tag\">#<span>LerderdergGorge</span></a> <a href=\"https://social.familylison.com/tags/RuckingChallenge\" class=\"mention hashtag\" rel=\"tag\">#<span>RuckingChallenge</span></a> <a href=\"https://social.familylison.com/tags/HikingAdventures\" class=\"mention hashtag\" rel=\"tag\">#<span>HikingAdventures</span></a> <a href=\"https://social.familylison.com/tags/TheSporeTrail\" class=\"mention hashtag\" rel=\"tag\">#<span>TheSporeTrail</span></a> <a href=\"https://social.familylison.com/tags/NatureLover\" class=\"mention hashtag\" rel=\"tag\">#<span>NatureLover</span></a></p><p><video src=\"https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/593/683/259/331/106/original/3303562299126e1d.mp4\"></video>\n",
+				"date_published": "2024-12-04T19:56:22+11:00",
+				"url": "https://samuellison.com/2024/12/04/conquered-the-steep-climb-up.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2024/12/03/tomorrow-im-taking-on-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🌄 Tomorrow, I&#39;m taking on the Lerderderg Gorge Circuit—an 8km loop with a challenging 387m elevation gain! This hike has been on my list for a while, and I’m excited to tackle it as part of my growing love for hiking on my days off work. 💪🏞️ Stay tuned—I’ll share some photos from the adventure! 🌿🍂 <a href=\"https://social.familylison.com/tags/HikingAdventures\" class=\"mention hashtag\" rel=\"tag\">#<span>HikingAdventures</span></a> <a href=\"https://social.familylison.com/tags/LerderdergGorge\" class=\"mention hashtag\" rel=\"tag\">#<span>LerderdergGorge</span></a> <a href=\"https://social.familylison.com/tags/NatureLover\" class=\"mention hashtag\" rel=\"tag\">#<span>NatureLover</span></a> <a href=\"https://social.familylison.com/tags/TrailLife\" class=\"mention hashtag\" rel=\"tag\">#<span>TrailLife</span></a> <a href=\"https://social.familylison.com/tags/TheSporeTrail\" class=\"mention hashtag\" rel=\"tag\">#<span>TheSporeTrail</span></a> <a href=\"https://social.familylison.com/tags/ExploreOutdoors\" class=\"mention hashtag\" rel=\"tag\">#<span>ExploreOutdoors</span></a></p>\n",
+				"date_published": "2024-12-03T13:17:26+11:00",
+				"url": "https://samuellison.com/2024/12/03/tomorrow-im-taking-on-the.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2024/12/01/this-is-another-photo-i.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This is another <a href=\"https://social.familylison.com/tags/photo\" class=\"mention hashtag\" rel=\"tag\">#<span>photo</span></a> I took. It&#39;s my first attempt at <a href=\"https://social.familylison.com/tags/LandscapePhotography\" class=\"mention hashtag\" rel=\"tag\">#<span>LandscapePhotography</span></a> and layering as a panoramic. I think it was 6 photos before bringing it into <a href=\"https://social.familylison.com/tags/lightroom\" class=\"mention hashtag\" rel=\"tag\">#<span>lightroom</span></a> This is at a local National Park known at <a href=\"https://social.familylison.com/tags/OrganPipes\" class=\"mention hashtag\" rel=\"tag\">#<span>OrganPipes</span></a> <a href=\"https://social.familylison.com/tags/Nationalpark\" class=\"mention hashtag\" rel=\"tag\">#<span>Nationalpark</span></a>.</p><p>Thoughts?</p><p><img src=\"https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/574/625/613/810/772/original/3be89bcc9a37777e.jpg\">\n",
+				"date_published": "2024-12-01T11:03:04+11:00",
+				"url": "https://samuellison.com/2024/12/01/this-is-another-photo-i.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://slison.micro.blog/2024/12/01/i-am-new-to-photography.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I am new to <a href=\"https://social.familylison.com/tags/photography\" class=\"mention hashtag\" rel=\"tag\">#<span>photography</span></a> and I have been learning on a <a href=\"https://social.familylison.com/tags/nikon\" class=\"mention hashtag\" rel=\"tag\">#<span>nikon</span></a> camera for now that is more than 14 years old. </p><p>Here is one of my favourite photos so far of some <a href=\"https://social.familylison.com/tags/mushrooms\" class=\"mention hashtag\" rel=\"tag\">#<span>mushrooms</span></a> in one of my local state forests while on a <a href=\"https://social.familylison.com/tags/hike\" class=\"mention hashtag\" rel=\"tag\">#<span>hike</span></a>. What do you think for a beginner?</p><p><img src=\"https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/574/617/318/941/304/original/d0c9cab8e7843e28.jpg\">\n",
+				"date_published": "2024-12-01T11:00:14+11:00",
+				"url": "https://samuellison.com/2024/12/01/i-am-new-to-photography.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://slison.micro.blog/2024/11/30/ok-so-i-did-it.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>OK, so I did it. I <a href=\"https://social.familylison.com/tags/degoogled\" class=\"mention hashtag\" rel=\"tag\">#<span>degoogled</span></a> my phone and installed <a href=\"https://social.familylison.com/tags/grapheneos\" class=\"mention hashtag\" rel=\"tag\">#<span>grapheneos</span></a>. Let&#39;s see how I like it and how long it takes to get a real hang of it. Whole new shift from X and Facebook to my own instance of Mastodon... New OS... Its my data! Going to setup a <a href=\"https://social.familylison.com/tags/nas\" class=\"mention hashtag\" rel=\"tag\">#<span>nas</span></a> and take back all my photos too.</p>\n",
+				"date_published": "2024-12-01T10:10:25+11:00",
+				"url": "https://samuellison.com/2024/11/30/ok-so-i-did-it.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2024/11/27/can-i-ask-is-mastodon.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Can I ask. Is <a href=\"https://social.familylison.com/tags/mastodon\" class=\"mention hashtag\" rel=\"tag\">#<span>mastodon</span></a>  (and the rest of the <a href=\"https://social.familylison.com/tags/fediverse\" class=\"mention hashtag\" rel=\"tag\">#<span>fediverse</span></a> ) generally like this? Where you can have actual meaningful conversations with others instead of being bombarded with algorithmic junk for views and likes?</p>\n",
+				"date_published": "2024-11-28T04:55:27+11:00",
+				"url": "https://samuellison.com/2024/11/27/can-i-ask-is-mastodon.html"
+			},
+			{
+				"id": "http://slison.micro.blog/2024/11/27/hi-im-samuel-lison-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🌿 Hi, I’m Samuel Lison! A <a href=\"https://social.familylison.com/tags/NaturePhotographer\" class=\"mention hashtag\" rel=\"tag\">#<span>NaturePhotographer</span></a> &amp; hiker, exploring the beauty of <a href=\"https://social.familylison.com/tags/fungi\" class=\"mention hashtag\" rel=\"tag\">#<span>fungi</span></a>, <a href=\"https://social.familylison.com/tags/landscapes\" class=\"mention hashtag\" rel=\"tag\">#<span>landscapes</span></a>, &amp; the <a href=\"https://social.familylison.com/tags/outdoors\" class=\"mention hashtag\" rel=\"tag\">#<span>outdoors</span></a>. I’m new to <a href=\"https://social.familylison.com/tags/Mastodon\" class=\"mention hashtag\" rel=\"tag\">#<span>Mastodon</span></a> &amp; excited to connect with a thoughtful community. I share <a href=\"https://social.familylison.com/tags/photography\" class=\"mention hashtag\" rel=\"tag\">#<span>photography</span></a> from my adventures, <a href=\"https://social.familylison.com/tags/hikes\" class=\"mention hashtag\" rel=\"tag\">#<span>hikes</span></a> through serene trails, and insights into my journey of learning, growth, and mindful living. Let’s celebrate nature’s wonders, discover new perspectives, and build genuine connections beyond algorithms. 🌱📸 <a href=\"https://social.familylison.com/tags/Introduction\" class=\"mention hashtag\" rel=\"tag\">#<span>Introduction</span></a> <a href=\"https://social.familylison.com/tags/HikingAdventures\" class=\"mention hashtag\" rel=\"tag\">#<span>HikingAdventures</span></a> <a href=\"https://social.familylison.com/tags/TheSporeTrail\" class=\"mention hashtag\" rel=\"tag\">#<span>TheSporeTrail</span></a></p>\n",
+				"date_published": "2024-11-27T14:57:02+11:00",
+				"url": "https://samuellison.com/2024/11/27/hi-im-samuel-lison-a.html"
+			}
+	]
+}
