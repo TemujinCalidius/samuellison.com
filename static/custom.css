@@ -1,0 +1,294 @@
+/* Start CSS */
+
+:root {
+  --width-max: 900px !important;
+}
+
+/* Header Section Styles */
+.banner-with-avatar {
+  position: relative;
+  display: inline-block;
+  width: 100%; /* Ensure it takes the full width of the container */
+}
+
+.site-image {
+  width: 100%; /* Make sure the banner image is full width */
+  height: auto;
+  border-radius: 20px; /* Rounded corners for the banner */
+}
+
+/* Making the avatar responsive */
+.site-avatar {
+  position: absolute;
+  bottom: -25%; /* Original positioning */
+  left: 50%; /* Center the avatar horizontally */
+  transform: translateX(-50%); /* Adjust to center horizontally */
+  max-width: 150px; /* Maximum width for larger screens */
+  width: 150px; /* Keep the width constant up to the max-width of the container */
+  height: auto;
+  border-radius: 50%; /* This makes the image circular */
+  z-index: 1; /* Ensure the avatar is above the banner */
+  border: 3px solid #d4a373; /* Adding a border, color matches the lighter orange used for links */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adjusted shadow effect to make it pop without pushing it down */
+}
+
+/* Container for the avatar */
+.banner-with-avatar {
+  position: relative;
+  display: inline-block;
+  width: 100%; /* Ensure it takes the full width of the container */
+  max-width: 1200px; /* Matches the max-width of the content area */
+}
+
+/* Adjust scaling for smaller screens */
+@media (max-width: 1200px) {
+  .banner-with-avatar {
+    max-width: 100%; /* Full width on smaller screens */
+  }
+  .site-avatar {
+    width: 15vw; /* Start scaling down when the screen is smaller than 1200px */
+  }
+}
+
+/* Set a minimum width for very small screens */
+@media (max-width: 480px) {
+  .site-avatar {
+    width: 100px; /* Minimum width for very small screens */
+  }
+}
+
+/* Site Header Title */
+.site-header-title {
+  text-align: center;
+  margin-top: 60px; /* Space between the avatar and title */
+}
+
+.site-header-title h1 {
+  margin: 0;
+  font-size: var(--font-size-large);
+  color: #e5e1de;
+}
+
+.site-header-title p {
+  margin: 5px 0 0 0;
+  font-size: var(--font-size-normal);
+  color: #d4a373; /* Lighter orange for links */
+}
+
+/* Site Blurb */
+.site-blurb {
+  font-size: var(--font-size-small);
+  color: #b35900; /* A darker shade of orange */
+  margin: 5px 0 0 0;
+}
+
+/* Navigation Links */
+a.site-nav-link,
+a.site-nav-link:visited {
+  font-size: var(--font-size-small);
+  color: #d4a373; /* A lighter shade of orange or another color */
+  text-decoration: none;
+  padding: 0 5px;
+  margin: 0px;
+  font-weight: 600;
+}
+
+/* Content Section Styles */
+
+/* General Link Styles */
+a {
+  color: #d4a373; /* A lighter shade of orange or whatever color you prefer */
+  text-decoration: none;
+}
+
+a:visited {
+  color: #b35900; /* A darker shade of orange or another color to indicate visited links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFA07A; /* A vibrant orange or another color for hover */
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FF7F50; /* Another vibrant color for when the link is being clicked */
+  text-decoration: underline;
+}
+
+body a,
+body a:visited {
+  color: #d4a373 !important; /* Using !important to ensure it overrides */
+  text-decoration: none;
+}
+
+body a:hover {
+  color: #FFA07A !important;
+  text-decoration: underline;
+}
+
+body a:active {
+  color: #FF7F50 !important;
+  text-decoration: underline;
+}
+
+/* Footer Section Styles */
+.site-footer {
+  background-color: #332211; /* A darker earthy tone */
+  color: #d4a373; /* Light text color to match your theme */
+  text-align: center; /* Centered text alignment */
+  padding: 20px 0;
+  margin-top: 20px;
+  border-top: 1px solid #553d1d; /* Subtle border to separate footer */
+}
+
+.site-footer-content {
+  max-width: var(--width-max);
+  margin: auto;
+}
+
+.footer-col-3 {
+  width: 100%; /* Since we're not using a multi-column layout */
+}
+
+.site-footer-text {
+  margin-bottom: 10px;
+}
+
+.social-media {
+  margin-bottom: 20px; /* Add space below social media icons */
+  display: flex; /* Reset to flex for footer */
+  justify-content: center; /* Center align for footer */
+  flex-wrap: wrap; /* Allow icons to wrap */
+}
+
+.social-media a {
+  color: #d4a373;
+  font-size: 20px; /* Keep the original size */
+  margin: 5px 10px; /* Adjust margin to space icons better */
+  text-decoration: none;
+}
+
+.social-media a:hover {
+  color: #FFA07A;
+}
+
+.footer-legal {
+  margin-top: 10px; /* Add space above privacy policy */
+}
+
+.footer-legal a {
+  color: #d4a373;
+  text-decoration: none;
+}
+
+.footer-legal a:hover {
+  color: #FFA07A;
+  text-decoration: underline;
+}
+
+.about-page {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #332211;
+}
+
+.profile-container {
+  width: 25%;
+  min-width: 200px;
+  margin-right: 20px;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: #4a3725;
+  border: 2px solid #d4a373;
+  border-radius: 10px;
+  height: fit-content;
+  align-self: flex-start;
+}
+
+.profile-container img {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  border: 3px solid #d4a373;
+}
+
+.profile-photo {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  border: 3px solid #d4a373;
+}
+
+.about-content {
+  width: 70%;
+  flex-grow: 1;
+  box-sizing: border-box;
+  color: #e5e1de; /* Corrected color typo from ##e5e1de to #e5e1de */
+}
+
+/* Specific styles for profile container social media */
+.profile-container .social-media {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.profile-container .social-media a {
+  color: #d4a373;
+  font-size: 18px;
+  margin: 5px 0;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.profile-container .social-media a i {
+  margin-right: 5px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-page {
+    flex-direction: column;
+  }
+ 
+  .profile-container, .about-content {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+ 
+  .profile-container .social-media {
+    align-items: center;
+  }
+}
+
+/* Hide the author's photo for visual presentation but keep it for IndieWeb parsing */
+.hidden-photo {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Featured Image for Post Excerpts */
+.featured-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 15px auto; /* Centers the image and adds space above and below */
+  border-radius: 8px; /* Matches the border-radius of other elements for consistency */
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px -5px; /* Subtle shadow to make it pop */
+}
+
+
+/* END CSS */

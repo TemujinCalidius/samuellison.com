@@ -1,0 +1,247 @@
+{
+  "version": "1.9.8",
+  "title": "Cards Theme",
+  "description": "A simple and customizable Micro.blog theme.",
+  "fields": [
+    {
+      "field": "params.headertext",
+      "label": "Description to show in your header.",
+      "type": "text"
+    },
+    {
+      "field": "params.customblogimage",
+      "label": "URL to a custom site image.",
+      "type": "text"
+    },
+    {
+      "field": "params.fediversecreator",
+      "label": "Fediverse Creator",
+      "type": "text"
+    },
+    {
+      "field": "params.showFullPost",
+      "label": "Show full post on home? ",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showPostTimeOnSingle",
+      "label": "Include both time and date on each post?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showPostTimeOnIndex",
+      "label": "Include both time and date on home?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showPostTimeOnArchive",
+      "label": "Include both time and date on archive?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showReadingTime",
+      "label": "Show Reading Time?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showCategoriesOnPost",
+      "label": "Show categories on the post page?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showCategoriesOnArchive",
+      "label": "Show categories on the archive page?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showCategoriesOnCategory",
+      "label": "Show categories on category archive page?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showCategoriesOnHomepage",
+      "label": "Show categories on the homepage?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showPostCategories",
+      "label": "Show current post categories?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.sortTags",
+      "label": "Sort Categories alphabetically?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.showTinylyticsKudos",
+      "label": "Enable Tinylytics Kudos?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.show_category_rss",
+      "label": "Show RSS Link on category page?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.paginate_home",
+      "label": "Enable pagination on home page?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.paginate_categories",
+      "label": "Enable pagination on category pages?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.paginate_replies",
+      "label": "Enable pagination on reply page?",
+      "type": "boolean"
+    },
+    {
+      "field": "params.paginate",
+      "label": "Number of posts per page",
+      "type": "integer"
+    },
+    {
+      "field": "params.light_body_background_color",
+      "label": "(Light) Body Background",
+      "type": "color"
+    },
+    {
+      "field": "params.light_body_text_color",
+      "label": "(Light) Body Text",
+      "type": "color"
+    },
+    {
+      "field": "params.light_body_accent_color",
+      "label": "(Light) Body Accent",
+      "type": "color"
+    },
+    {
+      "field": "params.light_body_hover_color",
+      "label": "(Light) Body Hover",
+      "type": "color"
+    },
+    {
+      "field": "params.light_card_background_color",
+      "label": "(Light) Card and Category Background",
+      "type": "color"
+    },
+    {
+      "field": "params.light_card_text_color",
+      "label": "(Light) Card and Category Text",
+      "type": "color"
+    },
+    {
+      "field": "params.light_card_accent_color",
+      "label": "(Light) Card and Category Accent",
+      "type": "color"
+    },
+    {
+      "field": "params.light_card_hover_color",
+      "label": "(Light) Card and Category Hover",
+      "type": "color"
+    },
+    {
+      "field": "params.light_shadow_color",
+      "label": "(Light) Shadow",
+      "type": "color"
+    },
+    {
+      "field": "params.light_card_border_color",
+      "label": "(Light) Border",
+      "type": "color"
+    },
+    {
+      "field": "params.light_blockquote_color",
+      "label": "(Light) Blockquote",
+      "type": "color"
+    },
+    {
+      "field": "params.light_blockquote_border",
+      "label": "(Light) Blockquote Border",
+      "type": "color"
+    },
+    {
+      "field": "params.light_blockquote_text",
+      "label": "(Light) Blockquote Text",
+      "type": "color"
+    },
+    {
+      "field": "params.light_meta_color",
+      "label": "(Light) Meta",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_body_background_color",
+      "label": "(Dark) Body Background",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_body_text_color",
+      "label": "(Dark) Body Text",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_body_accent_color",
+      "label": "(Dark) Body Accent",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_body_hover_color",
+      "label": "(Dark) Body Hover",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_card_background_color",
+      "label": "(Dark) Card and Category Background",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_card_text_color",
+      "label": "(Dark) Card and Category Text",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_card_accent_color",
+      "label": "(Dark) Card and Category Accent",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_card_hover_color",
+      "label": "(Dark) Card and Category Hover",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_shadow_color",
+      "label": "(Dark) Shadow",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_card_border_color",
+      "label": "(Dark) Border",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_blockquote_color",
+      "label": "(Dark) Blockquote",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_blockquote_border",
+      "label": "(Dark) Blockquote Border",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_blockquote_text",
+      "label": "(Dark) Blockquote Text",
+      "type": "color"
+    },
+    {
+      "field": "params.dark_meta_color",
+      "label": "(Dark) Meta",
+      "type": "color"
+    }
+  ]
+}

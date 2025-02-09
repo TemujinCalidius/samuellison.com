@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>{{ block "title" . }}{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if .Title }}{{.Title }} - {{ .Site.Title }}{{else}}{{.Summary | truncate 50 }}{{end}}{{ end }}{{ end }}</title>
+  <meta name="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if .Title }}{{.Title }} - {{ .Site.Title }}{{else}}{{.Summary | truncate 50 }}{{end}}{{ end }}"/>
+  {{ if .Summary }}
+  <meta name="description" content="{{ .Summary | truncate 160 }}" />
+  <meta name="og:description" content="{{ .Summary | truncate 160 }}" />
+  {{ else }}
+  <meta name="description" content="{{ .Site.Params.headertext | truncate 160 }}" />
+  <meta name="og:description" content="{{ .Site.Params.headertext | truncate 160 }}" />
+  {{end}}
+  {{ if .Site.Params.fediversecreator }}<meta name="fediverse:creator" content="{{ .Site.Params.fediversecreator }}"/>{{ end }}
+  <meta name="og:url" content="{{ .Permalink }}" />
+  <meta name="theme-color" content="{{ .Site.Params.light_body_background_color }}">
+  <link rel="shortcut icon" href="https://micro.blog/{{ .Site.Author.username }}/favicon.png" type="image/x-icon" />
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}"> 
+  {{ partial "cards.html" . }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+
+  {{ partial "microblog_head.html" . }}
+  
+  <!-- Add Font Awesome CDN link here -->
+  <script src="https://kit.fontawesome.com/0f8cc7a468.js" crossorigin="anonymous"></script>
+</head>

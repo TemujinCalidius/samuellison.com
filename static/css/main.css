@@ -1,0 +1,510 @@
+/** CSS that is configurable through the plugin settings are applied in Cards.html file. */
+:root {
+  --font-family: Inter var,ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  --font-size-normal: 18px;
+  --font-size-small: 15px;
+  --font-size-large: 22px;
+  --font-size-title: 22px;
+  --width-max:  900px;
+  --width-min: 350px;
+  --width-max-image: 720px;
+  --border-radius: 4px;
+}
+
+/* ============================== Main ============================== */
+body {
+  font-family: var(--font-family);
+  font-size: var(--font-size-normal);
+  color: #ffeb3b; /* Bright yellow text for contrast */
+  line-height: 1.5;
+  background-color: #2f211a; /* Dark background */
+  padding: 10px;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  color: #e5e1de; /* Same as Card Text Colour */
+}
+
+h2 {
+  font-size: 1.4rem;
+  color: #e5e1de; /* Same as Card Text Colour*/
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: #e5e1de; /* Same as Card Text Colour */
+}
+
+hr {
+  border-top: 1px dashed rgba(0, 0, 0, 0.5); /* Shadow color */
+}
+
+/* ============================== Code ============================== */
+pre {
+  background-color: #272822;
+  color: #f9f9f9;
+  overflow: auto;
+  padding: 15px;
+  font-size: 16px;
+}
+
+/* ============================== Images ============================== */
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.post-list img {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+}
+
+article img {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+/* ============================== Embedded Content ============================== */
+iframe {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+/* ============================== Site Header ============================== */
+.site-header {
+  max-width: var(--width-max);
+  min-width: var(--width-min);
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 10px;
+  font-size: smaller;
+}
+
+.site-header-title-link {
+  font-weight: 700;
+}
+
+.site-header a,
+.site-header a:visited {
+  color: #e5e1de;
+  text-decoration: none;
+}
+
+.site-header a:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}
+
+.site-header-title,
+.site-nav-link {
+  padding: 10px;
+}
+
+.site-header-row {
+  padding: 5px;
+}
+
+.site-header-row img {
+  max-width: 100%; /* This makes the image take full width of its container */
+  height: auto; /* Keeps aspect ratio */
+}
+
+/* ============================== Site Nav ============================== */
+.site-nav {
+  max-width: var(--width-max);
+  min-width: var(--width-min);
+  text-align: center;
+}
+
+a.site-header-title-link {
+  font-size: var(--font-size-title);
+  color: #ffeb3b; /* Bright yellow text for contrast */
+}
+
+a.site-nav-link,
+a.site-nav-link:visited {
+  font-size: var(--font-size-small);
+  color: #d4a373; /* Lighter orange for links */
+  text-decoration: none;
+  padding: 0 5px;
+  margin: 0px;
+  font-weight: 600;
+}
+
+a.site-nav-link:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}
+
+/* ============================== Categories ============================== */
+div.archive_categories {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  gap: 6px;
+}
+
+div.archive_categories p {
+  margin: 0 0 6px 0;
+}
+
+div.archive_categories p a {
+  color: #e5e1de; /* Light text for cards */
+  background-color: #332211; /* Darker earthy tone for cards */
+  border: 1px solid #553d1d; /* Subtle border for cards */
+  font-size: var(--font-size-small);
+  border-radius: 8px;
+  padding: 6px;
+  white-space: nowrap;
+  text-decoration: none;
+  margin: 0px;
+}
+
+div.archive_categories p a:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+  border: 1px solid #FFA07A; /* Vibrant orange for hover */
+}
+
+/* ============================== Site Content ============================== */
+.page-content {
+  max-width: var(--width-max);
+  min-width: var(--width-min);
+  margin: auto;
+}
+
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  padding: 0px;
+  margin: 4px 0 0 0;
+}
+
+.post-list-title {
+  text-align: center;
+}
+
+li.post-list-item,
+.post,
+li.h-entry,
+p.h-entry,
+div.photos-grid-container,
+div.microblog_conversation {
+  list-style: none;
+  border-radius: 8px;
+  padding: 25px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 30px 30px -50px,
+    rgba(0, 0, 0, 0.5) 0px 30px 30px -30px;
+  background-color: #3f2f27; /* Darker earthy tone for cards */
+  color: #e5e1de; /* Light text for cards */
+  border: 1px solid #553d1d; /* Subtle border for cards */
+  margin-bottom: 10px;
+  margin-top: 14px;
+}
+
+li.post-list-item a,
+.post a,
+li.h-entry a,
+p.h-entry a,
+div.photos-grid-container a {
+  color: #d4a373; /* Lighter orange for links */
+  text-decoration: none;
+}
+
+li.post-list-item a:hover,
+.post a:hover,
+li.h-entry a:hover,
+p.h-entry a:hover,
+div.photos-grid-container a:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}
+
+.post-header {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.post-list-item-title {
+  display: block;
+  text-align: center;
+  font-size: var(--font-size-large);
+}
+
+a.post-list-item-title {
+  color: #d4a373; /* Lighter orange for links */
+}
+
+a.post-list-item-title:hover,
+a.post-list-item-date:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}
+
+.post-list-item-date {
+  display: block;
+  text-align: center;
+  font-size: var(--font-size-normal);
+}
+
+a.post-list-item-date {
+  color: #d4a373; /* Lighter orange for links */
+}
+
+/* ============================== Post Meta ============================== */
+.post-meta {
+  font-size: var(--font-size-small);
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  flex-direction: row;
+  padding: 0 10px 10px 10px;
+  gap: 20px;
+}
+
+@media (max-width: 500px) {
+  .post-meta {
+    flex-direction: column;
+    gap: 5px;
+  }
+}
+
+/* ============================== Blockquotes ============================== */
+blockquote {
+  border-left: 4px solid #d4a373;
+  border-right: 4px solid #d4a373;
+  border-top: 1px solid #d4a373;
+  border-bottom: 1px solid #d4a373;
+  color: #e5e1de;
+  padding: 5px 15px 15px 15px;
+  background-color: #4a3725;
+  border-radius: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/* ============================== Response Options ============================== */
+.microblog_post {
+  padding: 20px;
+}
+
+.response-options {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.response-options a,
+.response-options .tinylytics_kudos {
+  padding: 6px 8px 4px 8px;
+  color: #e5e1de; /* Light text for cards */
+  border: 1px solid #553d1d; /* Subtle border for cards */
+  font-size: var(--font-size-small);
+  margin: 5px;
+  border-radius: 8px;
+  background-color: #332211; /* Darker earthy tone for cards */
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.response-options a:hover,
+.response-options button.tinylytics_kudos:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+  border: 1px solid #FFA07A; /* Vibrant orange for hover */
+}
+
+.site-image {
+  border-radius: 50px;
+}
+
+.microblog_conversation a {
+  color: #d4a373; /* Lighter orange for links */
+  text-decoration: none;
+}
+
+.microblog_conversation a:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}
+
+.microblog_reply_textarea textarea {
+  width: 100%;
+}
+
+@media (max-width: 500px) {
+  .response-options {
+    flex-direction: column;
+  }
+
+  .response-options a {
+    text-align: center;
+  }
+}
+
+/* ============================== Related Content ============================== */
+.related-content {
+  font-size: var(--font-size-small);
+  margin: 30px;
+}
+
+.related-content a {
+  color: #d4a373; /* Lighter orange for links */
+}
+
+.related-content a:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}
+
+/* ============================== Site Footer ============================== */
+.site-footer {
+  max-width: var(--width-max);
+  min-width: var(--width-min);
+  text-align: center;
+  font-size: var(--font-size-small);
+  margin: auto;
+}
+
+.site-footer a,
+.site-footer a:visited {
+  color: #d4a373; /* Lighter orange for links */
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}
+
+.tinylytics_webring {
+  text-decoration: none;
+}
+
+/* ============================== Photos ============================== */
+.photos-grid-container {
+  grid-template-columns: 32% 32% 32%;
+}
+
+/* ============================== Forms ============================== */
+input[type='email'],
+input[type='text'] {
+  box-sizing: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.5); /* Shadow color */
+  border-radius: 5px;
+  height: 35px;
+  font-size: var(--font-size-normal);
+  margin: 0px;
+  padding: 10px;
+  width: 80%;
+}
+
+@media (max-width: 500px) {
+  input[type='email'], input[type='text'] {
+   margin: 0px;
+     padding: 10px;
+     width: 65%;
+ }
+}
+
+input[id='q'],
+input[id='input_search'],
+input[type='search'],
+input[type='q'] {
+  box-sizing: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.5); /* Shadow color */
+  border-radius: 5px;
+  height: 35px;
+  font-size: var(--font-size-normal);
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+}
+
+textarea[name='message'] {
+  box-sizing: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.5); /* Shadow color */
+  border-radius: 5px;
+  height: 200px;
+  font-size: var(--font-size-normal);
+  margin: 10px;
+  padding: 10px;
+}
+
+form input[type='submit'],
+form button {
+  background-color: #d4a373; /* Lighter orange for links */
+  border: 0;
+  padding: 8px;
+  border-radius: 5px;
+  color: white;
+  min-width: 100px;
+  height: 35px;
+  font-size: var(--font-size-normal);
+}
+
+/* ============================== Pagination ============================== */
+.pagination {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 800;
+}
+
+#post-nav {
+  display: flex;
+  margin: auto;
+  gap: 30px;
+}
+
+.pagination .prev a,
+.pagination .next a {
+  color: #d4a373; /* Lighter orange for links */
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.pagination .prev a:hover,
+.pagination .next a:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}
+
+/* ============================== Bigfoot Overrides ============================== */
+.bigfoot-footnote__content {
+  background: #2b2b2b !important; /* Dark background */
+  color: #ffeb3b !important; /* Bright yellow text for contrast */
+}
+
+/* ============================== Blogroll ============================== */
+ul.blogroll li {
+  list-style-type: none !important;
+}
+
+ul.blogroll li a {
+  text-decoration: none;
+  color: #ffeb3b; /* Bright yellow text for contrast */
+}
+
+ul.blogroll li a span {
+  color: #d4a373; /* Lighter orange for links */
+}
+
+/* Removed media query for prefers-color-scheme as we're enforcing a single dark theme */
+
+/* ============================== Search Plugin ============================== */
+div#list_results {
+  margin-top: 10px;
+  background-color: #332211; /* Darker earthy tone for cards */
+}
+
+div#list_results p a {
+  color: #d4a373; /* Lighter orange for links */
+}
+
+div#list_results p a:hover {
+  color: #FFA07A; /* Vibrant orange for hover */
+}

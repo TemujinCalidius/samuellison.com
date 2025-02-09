@@ -1,0 +1,37 @@
+<header class="site-header">
+  <div class="h-card" style="display:none;">
+    <span class="p-name">Samuel Lison</span>
+    <img class="u-photo" src="https://samuellison.com/uploads/2025/profile-photo.png"/>
+    <a class="u-url" rel="me" href="https://samuellison.com">https://samuellison.com</a>
+    <p class="p-note">Nature Photographer | Hiker | Fungi & Landscape Enthusiast #TheSporeTrail</p>
+    <a class="u-email" href="mailto:samuel@familylison.com">samuel@familylison.com</a>
+    <span class="p-locality">Melbourne</span>
+    <abbr class="p-region" title="Victoria">Victoria</abbr>
+    <div class="p-country-name">Australia</div>
+  </div>
+  <div class="site-header-row">
+    <a class="site-header-logo-link" href="/">
+      <div class="banner-with-avatar">
+        <img src="https://samuellison.com/uploads/2025/banner-smaller.png" class="site-image"
+          alt="{{ .Site.Title }}" />
+        <img class="site-avatar" src="{{ .Site.Author.avatar }}" alt="{{ .Site.Title }}" />
+      </div>
+    </a>
+  </div>
+  <div class="site-header-title">
+    <h1>{{ .Site.Title }}</h1>
+    <p class="site-blurb">The Spore Trail - Photography & Hiking Journal, HUB, and my Internet Identity</p>
+  </div>
+  {{ if .Site.Params.headertext}}
+  <div class="site-header-row">{{ .Site.Params.headertext }}</div>
+  {{ end }}
+  <!-- Custom Navigation Menu -->
+  <div class="site-header-row">
+    <nav class="site-nav">
+      <a class="site-nav-link" href="/">Home</a>
+      <a class="site-nav-link" href="https://samuellison.com/about-me/">About Me</a>
+      <a class="site-nav-link" href="/categories/articles">The Journal</a>
+      <a class="site-nav-link" href="https://www.patreon.com/thesporetrail" target="_blank">Support Me</a>
+    </nav>
+  </div>
+</header>
