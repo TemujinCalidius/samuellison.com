@@ -7,11 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2025/03/09/so-i-have-disabled-vanadium.html",
+				
+				"content_html": "<p>So I have disabled #Vanadium on my #ChromeOS and replaced it with just the #Tor browser for mobile phone browsing, with #Kagi search. While #Mullvad works better on Desktop for &ldquo;speed&rdquo; when it comes to needing fast download speeds. I don&rsquo;t tend to need to use fast internet from my mobile phone and find myself just doing #procrastibrowsing of news sites.</p>\n",
+				"content_text": "So I have disabled #Vanadium on my #ChromeOS and replaced it with just the #Tor browser for mobile phone browsing, with #Kagi search. While #Mullvad works better on Desktop for \"speed\" when it comes to needing fast download speeds. I don't tend to need to use fast internet from my mobile phone and find myself just doing #procrastibrowsing of news sites.\n",
+				"date_published": "2025-03-09T00:06:21+00:00",
+				"url": "https://samuellison.com/2025/03/09/so-i-have-disabled-vanadium.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/03/07/so-ive-moved-my-opensimulator.html",
+				
+				"content_html": "<p>So I&rsquo;ve moved my #OpenSimulator region over to #NeverWorld.</p>\n<p><a href=\"https://neverworldgrid.com/\">neverworldgrid.com</a></p>\n<p>#Metaverse</p>\n",
+				"content_text": "So I've moved my #OpenSimulator region over to #NeverWorld.\r\n\r\n[neverworldgrid.com](https://neverworldgrid.com/)\r\n\r\n#Metaverse\n",
+				"date_published": "2025-03-07T02:29:38+00:00",
+				"url": "https://samuellison.com/2025/03/07/so-ive-moved-my-opensimulator.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/03/07/i-feel-liberated-i-have.html",
+				
+				"content_html": "<p>I feel #Liberated! I have finally managed to delete as many apps as possible from my phone (fully #degoogled too). I now use Airplane mode with wifi calling exclusively at home, and only turn on my 4G/5G mobile connection at locations when and if I need it (no tracking from providers).</p>\n<p>Essentially feels like I have de-phoned myself but still have one in my pocket for emergency calls should I need it.\nShould the family need me urgently? They know my work landline. We survived pre 90&rsquo;s.</p>\n",
+				"content_text": "I feel #Liberated! I have finally managed to delete as many apps as possible from my phone (fully #degoogled too). I now use Airplane mode with wifi calling exclusively at home, and only turn on my 4G/5G mobile connection at locations when and if I need it (no tracking from providers). \n\nEssentially feels like I have de-phoned myself but still have one in my pocket for emergency calls should I need it.\nShould the family need me urgently? They know my work landline. We survived pre 90's.\n",
+				"date_published": "2025-03-06T20:21:58+00:00",
+				"url": "https://samuellison.com/2025/03/07/i-feel-liberated-i-have.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://slison.micro.blog/2025/03/05/moving-away-from-tapandgo-and.html",
 				
 				"content_html": "<p>Moving away from #TapandGo and starting to use #Cash wherever possible as a movement towards regaining more #privacy.</p>\n",
 				"content_text": "Moving away from #TapandGo and starting to use #Cash wherever possible as a movement towards regaining more #privacy.\n",
-				"date_published": "2025-03-05T10:19:24+11:00",
+				"date_published": "2025-03-04T23:19:24+00:00",
 				"url": "https://samuellison.com/2025/03/05/moving-away-from-tapandgo-and.html",
 				"tags": ["Thoughts"]
 			},
@@ -20,7 +47,7 @@
 				
 				"content_html": "<p>#Tor relay successfully setup and seeing connections run through my server.</p>\n",
 				"content_text": "#Tor relay successfully setup and seeing connections run through my server.\n",
-				"date_published": "2025-03-03T19:21:03+11:00",
+				"date_published": "2025-03-03T08:21:03+00:00",
 				"url": "https://samuellison.com/2025/03/03/tor-relay-successfully-setup-and.html",
 				"tags": ["Tech"]
 			},
@@ -29,7 +56,7 @@
 				
 				"content_html": "<p>I&rsquo;m really enjoying #FreeTube. YouTube without ads, able to subscribe to my favourite creators and avoid #fingerprinting, #tracking or #algorithms.</p>\n",
 				"content_text": "I'm really enjoying #FreeTube. YouTube without ads, able to subscribe to my favourite creators and avoid #fingerprinting, #tracking or #algorithms. \n",
-				"date_published": "2025-03-03T18:55:18+11:00",
+				"date_published": "2025-03-03T07:55:18+00:00",
 				"url": "https://samuellison.com/2025/03/03/im-really-enjoying-freetube-youtube.html"
 			},
 			{
@@ -37,7 +64,7 @@
 				
 				"content_html": "<p>I&rsquo;ve enabled #Snowflake on my system, and will setup a VM as middle/guard relay for #Tor to help the network.</p>\n",
 				"content_text": "I've enabled #Snowflake on my system, and will setup a VM as middle/guard relay for #Tor to help the network.\n",
-				"date_published": "2025-03-03T16:40:34+11:00",
+				"date_published": "2025-03-03T05:40:34+00:00",
 				"url": "https://samuellison.com/2025/03/03/ive-enabled-snowflake-on-my.html",
 				"tags": ["Tech"]
 			},
