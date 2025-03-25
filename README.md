@@ -1,25 +1,32 @@
-# The Cards theme for Micro.blog
+# Samuel Lison's Website
 
-Cards is a simple and lightweight theme for Micro.blog.
+This repository contains a full backup of my personal website and blog at [samuellison.com](https://samuellison.com), including all posts, articles, photos, and content.
 
-- Posts are styled as "Cards,” hence the name of the theme.
-- A wide range of color options. 
-- Optimized for performance, accessibility, and SEO.
-- Optimized for social media using meta tags.
-- Compatible with other plugins.
-- Easily change the theme colors from your plugin settings.
-- Automatic Dark Mode detection.
-- An option to enable Reading Time on posts greater than 1 minute long.
-- An option to truncate posts on the home and category pages.
-- An option to show Tinylytics Kudos below each post.
-- An option to show your categories below your main navigation.
-- An option to show the time in addition to the date for each post.
-- And more features.
+## About This Site
 
+- Personal blog focused on photography (particularly fungi and landscapes), hiking, and the IndieWeb movement
+- Built with Hugo using a modified version of the Cards theme by Eric
+- Repository includes both the website code and all content
 
-!["Card Theme Samples"](https://raw.githubusercontent.com/ericgregorich/micro-blog-cards-theme/master/screenshot.png)
+## Theme Information
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ericgregorich)
+This site uses a modified version of the "Cards" theme originally created by Eric for Micro.blog. The original theme features:
 
-## Support
-If you have any issues, you can either create an issue on [GitHub](https://github.com/ericgregorich/micro-blog-cards-theme/issues), or send me an [email](https://ericgregorich.com).
+- Card-styled posts
+- Optimized for performance, accessibility, and SEO
+- Dark mode support
+- Customizable color options
+
+## License Information
+
+- **Website Content**: All blog posts, photos, and personal content © 2025 Samuel Lison, licensed under [Creative Commons BY-NC-SA 4.0](LICENSE-CONTENT.md)
+- **Theme**: The Cards theme is © 2022 Eric, licensed under the [MIT License](LICENSE-THEME.md)
+
+## Credits
+
+- Original theme by [Eric Gregorich](https://ericgregorich.com)
+- Content by Samuel Lison
+
+## Contact
+
+If you have any questions about my content, please reach out via my website.
