@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2025/03/28/my-hiking-video-is-finally.html",
+				
+				"content_html": "<p>My #hiking video is finally live! It is a 3.5 hour approximately #hike of #LerderdergGorge here in #Victoria #Australia. You can view it over at <a href=\"https://makertube.net/w/qmE2utucUNLLumbLmKdUAE.\">makertube.net/w/qmE2utu&hellip;</a></p>\n<p>If you can&rsquo;t get out hiking, I hope my video finds you joy.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My #hiking video is finally live! It is a 3.5 hour approximately #hike of #LerderdergGorge here in #Victoria #Australia. You can view it over at [makertube.net/w/qmE2utu...](https://makertube.net/w/qmE2utucUNLLumbLmKdUAE.)\r\n\r\nIf you can't get out hiking, I hope my video finds you joy.\r\n\r\n<iframe title=\"Lerderderg Gorge - March 2025\" width=\"560\" height=\"315\" src=\"https://makertube.net/videos/embed/qmE2utucUNLLumbLmKdUAE\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\"></iframe>\n",
+				"date_published": "2025-03-28T06:41:50+00:00",
+				"url": "https://samuellison.com/2025/03/28/my-hiking-video-is-finally.html",
+				"tags": ["Video"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/03/24/honest-government-ad-about-ai.html",
+				
+				"content_html": "<p>Honest Government Ad about AI.</p>\n<p><a href=\"https://youtu.be/TtVJ4JDM7eM?si=BKTzx5y1xttAJzQV\">youtu.be/TtVJ4JDM7&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Honest Government Ad about AI.\r\n\r\n[youtu.be/TtVJ4JDM7...](https://youtu.be/TtVJ4JDM7eM?si=BKTzx5y1xttAJzQV)\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TtVJ4JDM7eM?si=1_ZJsVAMZBLLBhL2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2025-03-24T22:39:51+00:00",
+				"url": "https://samuellison.com/2025/03/24/honest-government-ad-about-ai.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/03/24/my-hiking-video-is-in.html",
+				
+				"content_html": "<p>My #hiking video is in the process of transcoding on #MakerTube, which is a #PeerTube instance I use for hosting my video content.</p>\n<p>From quick watching currently during the transcoding process, I hear no audio. I hope that this is just during transcoding, as it&rsquo;s a long upload and transcoding process just to have a video with no audio.</p>\n",
+				"content_text": "My #hiking video is in the process of transcoding on #MakerTube, which is a #PeerTube instance I use for hosting my video content. \r\n\r\nFrom quick watching currently during the transcoding process, I hear no audio. I hope that this is just during transcoding, as it's a long upload and transcoding process just to have a video with no audio.\n",
+				"date_published": "2025-03-24T21:21:27+00:00",
+				"url": "https://samuellison.com/2025/03/24/my-hiking-video-is-in.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/03/24/my-hikingvideo-is-in-the.html",
+				
+				"content_html": "<p>My #HikingVideo is in the middle of transcoding. It&rsquo;s 64gig and 3.5 hours long. Hopefully the #PeerTube instance I am on, #MakerTube, can handle it. I decided to go to 1080p and not 4k, as not many people have 4k screens to make full use of those resources.</p>\n",
+				"content_text": "My #HikingVideo is in the middle of transcoding. It's 64gig and 3.5 hours long. Hopefully the #PeerTube instance I am on, #MakerTube, can handle it. I decided to go to 1080p and not 4k, as not many people have 4k screens to make full use of those resources. \n",
+				"date_published": "2025-03-24T20:54:54+00:00",
+				"url": "https://samuellison.com/2025/03/24/my-hikingvideo-is-in-the.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/03/24/ive-finally-finished-editing-and.html",
+				
+				"content_html": "<p>I&rsquo;ve finally finished #editing  and #encoding my #hiking video from last week. 3.5 hours long and will capture me recording #bird sounds and what not.</p>\n<p>I&rsquo;ll share it all with you as soon as it&rsquo;s done uploading!</p>\n",
+				"content_text": "I've finally finished #editing  and #encoding my #hiking video from last week. 3.5 hours long and will capture me recording #bird sounds and what not.\r\n\r\nI'll share it all with you as soon as it's done uploading!\n",
+				"date_published": "2025-03-24T07:07:04+00:00",
+				"url": "https://samuellison.com/2025/03/24/ive-finally-finished-editing-and.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://slison.micro.blog/2025/03/20/i-got-a-rodecasterduo-and.html",
 				
 				"content_html": "<p>I got a #RodecasterDuo and finished setting it up on #POP_OS, will be fun doing my #LiveStream with it soon. Managed to get 3 USB channels/sources to route my sounds working on it without relying on windows.</p>\n",
