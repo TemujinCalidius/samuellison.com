@@ -13,8 +13,8 @@ categories:
 url: /2025/03/09/so-i-have-disabled-vanadium.html
 mastodon:
   id: 114129554981231404
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreih276gcqkll26zkst2vyceiu5pdkcavn7mzeohu4pltxkbf4ugt6i
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ljvqktoeyh2j'

@@ -4,15 +4,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <title>{{ block "title" . }}{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if .Title }}{{.Title }} - {{ .Site.Title }}{{else}}{{.Summary | truncate 50 }}{{end}}{{ end }}{{ end }}</title>
+  
+  <!-- Static Open Graph and Twitter Card meta tags -->
   <meta name="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if .Title }}{{.Title }} - {{ .Site.Title }}{{else}}{{.Summary | truncate 50 }}{{end}}{{ end }}"/>
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if .Title }}{{.Title }} - {{ .Site.Title }}{{else}}{{.Summary | truncate 50 }}{{end}}{{ end }}"/>
   {{ if .Summary }}
+
+  <!-- Using .Summary for description as Micro.blog might not allow dynamic setting -->
   <meta name="description" content="{{ .Summary | truncate 160 }}" />
   <meta name="og:description" content="{{ .Summary | truncate 160 }}" />
+  <meta name="twitter:description" content="{{ .Summary | truncate 160}}" />
   {{ else }}
   <meta name="description" content="{{ .Site.Params.headertext | truncate 160 }}" />
   <meta name="og:description" content="{{ .Site.Params.headertext | truncate 160 }}" />
+  <meta name="twitter:description" content="{{ .Site.Params.headertext | truncate 160 }}" />
   {{end}}
-  {{ if .Site.Params.fediversecreator }}<meta name="fediverse:creator" content="{{ .Site.Params.fediversecreator }}"/>{{ end }}
+  {{ if .Site.Params.fediversecreator }}<meta name="fediverse:creator" content="@samuel@social.familylison.com"/>{{ end }}
   <meta name="og:url" content="{{ .Permalink }}" />
   <meta name="theme-color" content="{{ .Site.Params.light_body_background_color }}">
   <link rel="shortcut icon" href="https://micro.blog/{{ .Site.Author.username }}/favicon.png" type="image/x-icon" />
@@ -24,4 +31,5 @@
   
   <!-- Add Font Awesome CDN link here -->
   <script src="https://kit.fontawesome.com/0f8cc7a468.js" crossorigin="anonymous"></script>
+  <script src="https://tinylytics.app/embed/YmVF_KTu73m4AgEcBtdY.js?hits&kudos&webring" defer></script>
 </head>

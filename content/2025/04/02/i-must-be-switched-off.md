@@ -13,8 +13,8 @@ categories:
 url: /2025/04/02/i-must-be-switched-off.html
 mastodon:
   id: 114270764106527133
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreid4bcairyp5ududi7m2hfvnbyr6irpi7nymscr5xcwmf6lmc5e3l4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lluhbcscoe23'

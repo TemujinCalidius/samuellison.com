@@ -17,8 +17,8 @@ opengraph:
 url: /2025/03/05/moving-away-from-tapandgo-and.html
 mastodon:
   id: 114106719691875713
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreiacirjwdsnwep6m3azcchikfdb4rcma77hibuz2tdngfq5h6rnxxy
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ljlm2kim3k22'

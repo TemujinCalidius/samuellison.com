@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/12/04/conquered-the-steep-climb-up.html
 post_id: 4834795
-date: 2024-12-04T19:56:22+1100
-lastmod: 2024-12-04T19:56:22+1100
+custom_summary: false
+summary: ""
+date: 2024-12-04T08:56:22-0000
+lastmod: 2024-12-04T08:56:22-0000
 type: post
 videos:
 - https://cdn.masto.host/socialfamilylisoncom/media_attachments/files/113/593/683/259/331/106/original/3303562299126e1d.mp4

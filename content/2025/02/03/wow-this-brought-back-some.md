@@ -3,16 +3,18 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/02/03/wow-this-brought-back-some.html
 post_id: 4872763
-date: 2025-02-03T21:23:57+1100
-lastmod: 2025-02-03T21:23:57+1100
+custom_summary: false
+summary: ""
+date: 2025-02-03T10:23:57-0000
+lastmod: 2025-02-03T10:23:57-0000
 type: post
 categories:
 - "Thoughts"
 url: /2025/02/03/wow-this-brought-back-some.html
 mastodon:
   id: 113939463565002302
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibhlez5mjuihgq6ynfnxbmctkwtdpt4d7bh63epfmsszhwmfxaaue
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lhbd7bn4et2k'
@@ -23,7 +25,7 @@ bluesky:
 threads:
   id: 17885759763200995
   url: https://www.threads.net/@thesporetrail/post/DFm3ElsKqXs
-  username: thesporetrail
+  username: 
 ---
 Wow, this brought back some memories. 
 

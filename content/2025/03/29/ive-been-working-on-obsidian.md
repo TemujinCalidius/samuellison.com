@@ -13,8 +13,8 @@ categories:
 url: /2025/03/29/ive-been-working-on-obsidian.html
 mastodon:
   id: 114242788766761958
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidlv7sbwyaraeckzik2uvrlullr5b2z55cufrcw4vapznguwakugu
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3llhzpngjgw26'

@@ -14,8 +14,8 @@ categories:
 url: /2025/03/12/i-did-my-first-nighthike.html
 mastodon:
   id: 114148197386190291
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibk4q5egzvc2qkch2uvrmayy5lj4lxyk4vbutylsgvubgsg3ywu5a
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lk5ziglppq2e'

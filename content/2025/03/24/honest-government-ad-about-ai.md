@@ -13,8 +13,8 @@ categories:
 url: /2025/03/24/honest-government-ad-about-ai.html
 mastodon:
   id: 114219810345074127
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidy5yrra7zpmxzcxod54wobfq3xgptmd6ur5mead5gjn4uc7jfko4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ll5t6ak5v32b'

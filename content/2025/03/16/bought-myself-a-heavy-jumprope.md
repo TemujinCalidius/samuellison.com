@@ -13,8 +13,8 @@ categories:
 url: /2025/03/16/bought-myself-a-heavy-jumprope.html
 mastodon:
   id: 114171063113299366
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreic36zdkmjnfxnvkavr4y7qyf34i3erxtiog4sj7plzibgslklw7ny
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lki6gkhesl2q'

@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/12/01/i-am-new-to-photography.html
 post_id: 4834792
-date: 2024-12-01T11:00:14+1100
-lastmod: 2024-12-01T11:00:14+1100
+custom_summary: false
+summary: ""
+date: 2024-12-01T00:00:14-0000
+lastmod: 2024-12-01T00:00:14-0000
 type: post
 categories:
 - "Photos"

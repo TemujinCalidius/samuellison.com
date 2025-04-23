@@ -13,8 +13,8 @@ categories:
 url: /2025/04/07/back-from-phillipisland-what-a.html
 mastodon:
   id: 114296144857738079
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreihjckhsaknltnmn446l65txj4sq44q4dpps3egswy3ninh57t2n7u
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lm7px5j6yq2a'

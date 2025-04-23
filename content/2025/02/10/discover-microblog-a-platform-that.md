@@ -13,8 +13,8 @@ categories:
 url: /2025/02/10/discover-microblog-a-platform-that.html
 mastodon:
   id: 113977863932449453
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibh3spq4ztxwfpawvwdpuqi2wz7bzjyjws4wf7w2xuej5226ckfzq
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lhsevqea662n'

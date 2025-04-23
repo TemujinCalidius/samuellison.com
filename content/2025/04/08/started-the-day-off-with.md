@@ -14,8 +14,8 @@ categories:
 url: /2025/04/08/started-the-day-off-with.html
 mastodon:
   id: 114305044717095445
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreif7gjhiaie5u2fbbl7pmlruaovosjj6dptsh5vkftl732eicedvju
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lmdogdkdcc2z'

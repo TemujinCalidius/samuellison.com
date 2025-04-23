@@ -25,8 +25,8 @@ photos_with_metadata:
 url: /2025/03/17/hiking-lerderderggorge-check-mission-accomplished.html
 mastodon:
   id: 114175603621719937
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreiahjfxpwv6ejjk3tle4jbhjbrxagpwxtxhhgt3ri6nv3mf6cpd5de
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkk6xfxdth2i'
@@ -36,8 +36,8 @@ bluesky:
   did: 'did:plc:5jr2zy3bgol6hjw7fxa6pygf'
 pixelfed:
   id: 807087512486941721
-  username: sporetrail
-  hostname: Photos.familylison.com
+  username: 
+  hostname: 
 ---
 #Hiking #LerderdergGorge - Check!
 

@@ -12,13 +12,13 @@ categories:
 - "Tech"
 thumbnail: https://s3.amazonaws.com/micro.blog/thumbnails/2025/03/06/samuellison.com/749ecd49d6dae612298f785045dd7e98.png
 opengraph:
-  title: "Samuel Lison - I've enabled #Snowflake on my system, an..."
+  title: "Samuel Lison - I’ve enabled #Snowflake on my system, an..."
   image: https://s3.amazonaws.com/micro.blog/opengraph/2025/03/06/5204279.png
 url: /2025/03/03/ive-enabled-snowflake-on-my.html
 mastodon:
   id: 114096893958276001
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreie5ml3vbwm3hhzis6em5vqkla7wn6r2g7ihxs6wjtemwo5uyp5fx4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ljhagdedag2j'

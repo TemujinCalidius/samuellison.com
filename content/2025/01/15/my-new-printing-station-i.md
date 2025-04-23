@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/15/my-new-printing-station-i.html
 post_id: 4834802
-date: 2025-01-15T20:07:51+1100
-lastmod: 2025-01-24T00:00:42+1100
+custom_summary: false
+summary: ""
+date: 2025-01-15T09:07:51-0000
+lastmod: 2025-01-23T13:00:42-0000
 type: post
 categories:
 - "Thoughts"

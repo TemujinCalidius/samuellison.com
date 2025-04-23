@@ -13,8 +13,8 @@ categories:
 url: /2025/04/09/planning-to-go-to-lakesentrance.html
 mastodon:
   id: 114305767133368955
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreid34mjolrtbuxqgsmenanxlp5p36wivggedd2iizgnjty25zavd6e
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lmdyou7kvi2q'

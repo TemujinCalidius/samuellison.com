@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/15/just-a-random-photo-taken.html
 post_id: 4834801
-date: 2025-01-15T19:02:57+1100
-lastmod: 2025-01-15T19:02:57+1100
+custom_summary: false
+summary: ""
+date: 2025-01-15T08:02:57-0000
+lastmod: 2025-01-15T08:02:57-0000
 type: post
 categories:
 - "Photos"

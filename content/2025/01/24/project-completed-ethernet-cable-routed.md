@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/24/project-completed-ethernet-cable-routed.html
 post_id: 4842576
-date: 2025-01-24T19:52:46+1100
-lastmod: 2025-01-24T19:52:46+1100
+custom_summary: false
+summary: ""
+date: 2025-01-24T08:52:46-0000
+lastmod: 2025-01-24T08:52:46-0000
 type: post
 categories:
 - "Thoughts"
@@ -15,8 +17,8 @@ photos_with_metadata:
 url: /2025/01/24/project-completed-ethernet-cable-routed.html
 mastodon:
   id: 113882482025676228
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreifexbdms67p7jae7lvnhps2qy2rhmzarqu5jsowdw4vorvoc7d3ta
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lghzh3s64j2j'
@@ -27,7 +29,7 @@ bluesky:
 threads:
   id: 18050427797150590
   url: https://www.threads.net/@thesporetrail/post/DFM8sqQKZat
-  username: thesporetrail
+  username: 
 ---
 Project completed. Ethernet cable routed through my double story house, with switches, to our NBN fiber modem connection. Now enjoying 1000Mbps speeds direct to the PC, instead of what I was getting, 300 via WiFi mesh.
 

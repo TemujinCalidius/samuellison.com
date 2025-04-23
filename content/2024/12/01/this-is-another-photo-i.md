@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/12/01/this-is-another-photo-i.html
 post_id: 4834793
-date: 2024-12-01T11:03:04+1100
-lastmod: 2024-12-01T11:03:04+1100
+custom_summary: false
+summary: ""
+date: 2024-12-01T00:03:04-0000
+lastmod: 2024-12-01T00:03:04-0000
 type: post
 categories:
 - "Photos"

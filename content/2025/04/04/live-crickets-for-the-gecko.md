@@ -13,8 +13,8 @@ categories:
 url: /2025/04/04/live-crickets-for-the-gecko.html
 mastodon:
   id: 114279797724545039
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidm5byhzc63twoh6fuw7lbfpfmpfsv4yy4ykcolyixwesppqlbfri
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3llyhndorlt2t'

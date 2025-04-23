@@ -13,8 +13,8 @@ categories:
 url: /2025/04/02/i-feel-like-i-have.html
 mastodon:
   id: 114267574698207966
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreieox2d6zrugv2vksbooivcilqy4xribnupxondzqvzqnrhxqv7lqy
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3llszwwwp4h2s'

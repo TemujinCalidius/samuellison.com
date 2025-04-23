@@ -18,8 +18,8 @@ opengraph:
 url: /2025/03/20/i-got-a-rodecasterduo-and.html
 mastodon:
   id: 114197413426073649
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibtsib3jwoxckw6e6qg3ubfskif73d33vtuprwk45qyj2ovpgo3gq
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lktuvbyl7d2r'

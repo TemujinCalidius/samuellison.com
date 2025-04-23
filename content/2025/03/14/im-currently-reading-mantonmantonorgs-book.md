@@ -13,8 +13,8 @@ categories:
 url: /2025/03/14/im-currently-reading-mantonmantonorgs-book.html
 mastodon:
   id: 114157879735346339
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreifyh5moi3lktvh4djsl4lp2oqoggwd4poupf43t5ag3yku2gbfrde
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkcd3hu2ft25'

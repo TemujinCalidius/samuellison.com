@@ -17,8 +17,8 @@ opengraph:
 url: /2025/03/07/i-feel-liberated-i-have.html
 mastodon:
   id: 114117346806340411
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreididahk4fcunb6mw5ofwd7uck2lk5fq2fsndsuwtzeqsabf5ooy6y
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ljqd37mnkn2z'

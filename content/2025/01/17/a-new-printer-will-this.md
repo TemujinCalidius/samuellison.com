@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/17/a-new-printer-will-this.html
 post_id: 4834808
-date: 2025-01-17T15:24:04+1100
-lastmod: 2025-01-24T00:01:01+1100
+custom_summary: false
+summary: ""
+date: 2025-01-17T04:24:04-0000
+lastmod: 2025-01-23T13:01:01-0000
 type: post
 categories:
 - "Thoughts"

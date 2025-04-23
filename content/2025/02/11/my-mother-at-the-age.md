@@ -13,8 +13,8 @@ categories:
 url: /2025/02/11/my-mother-at-the-age.html
 mastodon:
   id: 113981396058546979
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreif2uyhto56ifovgf26utcaq47xdojrs3xl7bnzks4s6amxa4mbski
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lhtx3xg3kn2h'

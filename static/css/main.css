@@ -508,3 +508,15 @@ div#list_results p a {
 div#list_results p a:hover {
   color: #FFA07A; /* Vibrant orange for hover */
 }
+
+/* ============================== Syndication Section ============================== */
+.syndication-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.syndication-text {
+  font-size: var(--font-size-normal);
+  color: #d4a373; /* Lighter orange to match theme */
+  margin-bottom: 10px;
+}

@@ -48,8 +48,8 @@ photos_with_metadata:
 url: /2025/02/27/here-are-some-more-beautiful.html
 mastodon:
   id: 114073362228794173
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreifbn2qgfu6m6q633xcdfkd4opwuwrolr3fxpbfwjvtavx7465a2dm
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lj4rzkw7aq2n'
@@ -59,8 +59,8 @@ bluesky:
   did: 'did:plc:5jr2zy3bgol6hjw7fxa6pygf'
 pixelfed:
   id: 800544114708102570
-  username: sporetrail
-  hostname: Photos.familylison.com
+  username: 
+  hostname: 
 threads:
   id: 18446389867073871
   url: https://www.threads.net/@thesporetrail/post/DGjwGg5NFqt

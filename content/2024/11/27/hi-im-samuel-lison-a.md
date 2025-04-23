@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/11/27/hi-im-samuel-lison-a.html
 post_id: 4834789
-date: 2024-11-27T14:57:02+1100
-lastmod: 2024-11-27T14:57:02+1100
+custom_summary: false
+summary: ""
+date: 2024-11-27T03:57:02-0000
+lastmod: 2024-11-27T03:57:02-0000
 type: post
 url: /2024/11/27/hi-im-samuel-lison-a.html
 ---

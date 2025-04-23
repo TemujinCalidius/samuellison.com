@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/11/30/ok-so-i-did-it.html
 post_id: 4834791
-date: 2024-12-01T10:10:25+1100
-lastmod: 2024-12-01T10:10:25+1100
+custom_summary: false
+summary: ""
+date: 2024-11-30T23:10:25-0000
+lastmod: 2024-11-30T23:10:25-0000
 type: post
 url: /2024/11/30/ok-so-i-did-it.html
 ---

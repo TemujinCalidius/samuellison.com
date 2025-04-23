@@ -12,13 +12,13 @@ categories:
 - "Tech"
 thumbnail: https://s3.amazonaws.com/micro.blog/thumbnails/2025/03/06/samuellison.com/5445eb39e9b5d310a61a6d3fd98c6a28.png
 opengraph:
-  title: "Samuel Lison - Tor relay successfully setup and seeing ..."
+  title: "Samuel Lison - #Tor relay successfully setup and seeing..."
   image: https://s3.amazonaws.com/micro.blog/opengraph/2025/03/06/5204359.png
 url: /2025/03/03/tor-relay-successfully-setup-and.html
 mastodon:
   id: 114097526021373521
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreia2bfxqhpungrrjkiwebrxnd7yawspemfq2pl2tsvtfavmtpd7kgy
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ljhjfsq3w22y'

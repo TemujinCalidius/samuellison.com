@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/12/04/finally-got-my-pixelfed-instance.html
 post_id: 4834796
-date: 2024-12-05T09:56:25+1100
-lastmod: 2024-12-05T09:56:25+1100
+custom_summary: false
+summary: ""
+date: 2024-12-04T22:56:25-0000
+lastmod: 2024-12-04T22:56:25-0000
 type: post
 url: /2024/12/04/finally-got-my-pixelfed-instance.html
 ---

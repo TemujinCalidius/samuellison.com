@@ -13,8 +13,8 @@ categories:
 url: /2025/02/16/last-night-i-attended-shen.html
 mastodon:
   id: 114011888449568888
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreib3smv5td5h6x2jit6bghjcoxdt5q3dase53f4eqjpulxuisnozta
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3libigcajux2s'

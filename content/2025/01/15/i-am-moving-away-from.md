@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/15/i-am-moving-away-from.html
 post_id: 4834807
-date: 2025-01-16T10:10:26+1100
-lastmod: 2025-01-16T10:10:26+1100
+custom_summary: false
+summary: ""
+date: 2025-01-15T23:10:26-0000
+lastmod: 2025-01-15T23:10:26-0000
 type: post
 url: /2025/01/15/i-am-moving-away-from.html
 ---

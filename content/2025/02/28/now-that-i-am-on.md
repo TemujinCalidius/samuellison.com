@@ -24,8 +24,8 @@ photos_with_metadata:
 url: /2025/02/28/now-that-i-am-on.html
 mastodon:
   id: 114079299634393876
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreigdjkmln4irfh2o2rzmitbf2xetq5ij67m53dd43zvr7jp5tcw63a
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lj7gff6t4n2f'

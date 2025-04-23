@@ -36,8 +36,8 @@ photos_with_metadata:
 url: /2025/04/08/just-got-back-from-phillipisland.html
 mastodon:
   id: 114301249783222553
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreihzaq6gzjruho4ega4zerwamk36iidu6bdlactqfvrhmpegqnh62a
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lmbyivtu2x26'

@@ -12,7 +12,7 @@ categories:
 - "Photos"
 thumbnail: https://s3.amazonaws.com/micro.blog/thumbnails/2025/03/15/samuellison.com/508aa74f595ddc06d3bbbaa651830d83.png
 opengraph:
-  title: "Samuel Lison - Mushrooms are starting to come back out...."
+  title: "Samuel Lison - #Mushrooms are starting to come back out..."
   image: https://s3.amazonaws.com/micro.blog/opengraph/2025/03/15/5236310.png
 images:
 - https://samuellison.com/uploads/2025/897f32c82c.jpg
@@ -28,8 +28,8 @@ photos_with_metadata:
 url: /2025/03/15/mushrooms-are-starting-to-come.html
 mastodon:
   id: 114165186055456139
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreic4q3ddint4dcrdd2sa37do5orviekqjyqhkjesjghop6udl3r3fq
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkfkvzqwvo2e'
@@ -39,8 +39,8 @@ bluesky:
   did: 'did:plc:5jr2zy3bgol6hjw7fxa6pygf'
 pixelfed:
   id: 806420784491876702
-  username: sporetrail
-  hostname: Photos.familylison.com
+  username: 
+  hostname: 
 ---
 #Mushrooms are starting to come back out. #Autumn is starting to hit back here in #Australia. I can't wait!
 

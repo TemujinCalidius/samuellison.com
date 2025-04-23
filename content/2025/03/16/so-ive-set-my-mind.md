@@ -13,8 +13,8 @@ categories:
 url: /2025/03/16/so-ive-set-my-mind.html
 mastodon:
   id: 114173833141479889
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibmnb2mf4lkqlabqmqzhchv46l3b7472ly7plwyhkjetj3t52pjay
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkjfs7orys2y'

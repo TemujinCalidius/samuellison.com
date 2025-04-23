@@ -17,8 +17,8 @@ opengraph:
 url: /2025/03/18/check-out-this-nd-recording.html
 mastodon:
   id: 114182109676283105
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidm7rust76p6sebyrgsacj4wpyrpairn6zvenjaxu3vd2t5tpgjfy
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkn3fyiz4p2h'

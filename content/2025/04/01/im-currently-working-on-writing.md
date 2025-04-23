@@ -13,8 +13,8 @@ categories:
 url: /2025/04/01/im-currently-working-on-writing.html
 mastodon:
   id: 114264758972219882
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreifzmhdsq4vlf7knpofxwyfe4fm3jjvuxvrl2bbivp6qqyaevmo5qy
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3llrrwj4emu2a'

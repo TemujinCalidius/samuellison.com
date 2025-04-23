@@ -17,8 +17,8 @@ opengraph:
 url: /2025/03/14/something-else-i-have-come.html
 mastodon:
   id: 114158117540206392
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreieqng6xxmvzh7k7k4n7ibmal7lquptckhqxnr5jozkmugco3mym4y
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkcghmdpk225'

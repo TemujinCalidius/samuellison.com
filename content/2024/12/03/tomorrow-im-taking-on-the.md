@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/12/03/tomorrow-im-taking-on-the.html
 post_id: 4834794
-date: 2024-12-03T13:17:26+1100
-lastmod: 2024-12-03T13:17:26+1100
+custom_summary: false
+summary: ""
+date: 2024-12-03T02:17:26-0000
+lastmod: 2024-12-03T02:17:26-0000
 type: post
 url: /2024/12/03/tomorrow-im-taking-on-the.html
 ---

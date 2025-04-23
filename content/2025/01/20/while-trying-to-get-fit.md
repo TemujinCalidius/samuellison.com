@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/20/while-trying-to-get-fit.html
 post_id: 4834809
-date: 2025-01-20T12:47:18+1100
-lastmod: 2025-01-20T12:47:18+1100
+custom_summary: false
+summary: ""
+date: 2025-01-20T01:47:18-0000
+lastmod: 2025-01-20T01:47:18-0000
 type: post
 url: /2025/01/20/while-trying-to-get-fit.html
 ---

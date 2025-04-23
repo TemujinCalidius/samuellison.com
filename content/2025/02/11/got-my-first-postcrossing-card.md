@@ -32,8 +32,8 @@ bluesky:
   did: 'did:plc:5jr2zy3bgol6hjw7fxa6pygf'
 pixelfed:
   id: 794741138502414818
-  username: sporetrail
-  hostname: Photos.familylison.com
+  username: 
+  hostname: 
 threads:
   id: 18322529974162718
   url: https://www.threads.net/@thesporetrail/post/DF6hMjTts5D

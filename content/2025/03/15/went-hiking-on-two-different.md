@@ -52,8 +52,8 @@ photos_with_metadata:
 url: /2025/03/15/went-hiking-on-two-different.html
 mastodon:
   id: 114165180991640965
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibjr3khs3rcdpwb5peh34r6be6oly5w4ti4vemklldgxgzt7wuefm
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkfktufjhb2e'
@@ -63,8 +63,8 @@ bluesky:
   did: 'did:plc:5jr2zy3bgol6hjw7fxa6pygf'
 pixelfed:
   id: 806420527309582684
-  username: sporetrail
-  hostname: Photos.familylison.com
+  username: 
+  hostname: 
 ---
 Went #hiking on two different trails today and spotted some beautiful wildlife with the wife. These are just photo's taken with the mobile phone again today!
 We explored and found some fascinating things. Look, #Koala!

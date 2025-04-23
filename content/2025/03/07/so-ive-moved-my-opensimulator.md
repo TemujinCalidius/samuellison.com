@@ -13,8 +13,8 @@ categories:
 url: /2025/03/07/so-ive-moved-my-opensimulator.html
 mastodon:
   id: 114118792366195366
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibtldkkgn3cecjauz6tw7ouac32dme4jqhb4rlwbj5xhy6xf3r5o4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ljqxmkxgse2l'

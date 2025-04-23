@@ -14,8 +14,8 @@ thumbnail: https://s3.amazonaws.com/micro.blog/thumbnails/2025/02/21/samuellison
 url: /2025/02/21/well-the-good-news-is.html
 mastodon:
   id: 114039035351000304
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreifhyhnxg2d5v4w42pzeiuyzij5mil3l7agudnb4esqjzejtw22udq
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3link7brc3q2g'

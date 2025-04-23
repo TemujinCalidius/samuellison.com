@@ -13,8 +13,8 @@ categories:
 url: /2025/03/02/today-i-wrote-an-article.html
 mastodon:
   id: 114092275256030526
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidllltvebqkgffhnd7ljdgtnq6slhalazlccxa2ugbzva5o3hjaam
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ljf6s5s6je2u'

@@ -13,8 +13,8 @@ categories:
 url: /2025/03/12/done-i-have-managed-to.html
 mastodon:
   id: 114146889792310802
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreicteuyzisuehshbqevvmc7izvumfag246rhquklgdkc6nqnzjxanm
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lk5gvsesue2q'

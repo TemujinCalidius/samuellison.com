@@ -17,8 +17,8 @@ opengraph:
 url: /2025/03/17/check-out-this-noisy-cockatoo.html
 mastodon:
   id: 114177211351236009
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibev2lsdajkgfrrhardzggmiqttxpv6nifunleiqsk24hivlr57ze
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkkvsiksiz2q'

@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/28/im-really-liking-the-new.html
 post_id: 4854680
-date: 2025-01-28T17:53:48+1100
-lastmod: 2025-01-28T17:53:48+1100
+custom_summary: false
+summary: ""
+date: 2025-01-28T06:53:48-0000
+lastmod: 2025-01-28T06:53:48-0000
 type: post
 categories:
 - "Thoughts"
@@ -15,8 +17,8 @@ photos_with_metadata:
 url: /2025/01/28/im-really-liking-the-new.html
 mastodon:
   id: 113904663646682854
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreifxukk7roi7ugz7bpt4gkkclnq2cbja6gicba6cacpy44noaxaxti
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lgruo5wlt32d'
@@ -27,7 +29,7 @@ bluesky:
 threads:
   id: 18371901751189675
   url: https://www.threads.net/@thesporetrail/post/DFXCRXOqWYm
-  username: thesporetrail
+  username: 
 ---
 I'm really liking the new #Pixelfed UI.
 

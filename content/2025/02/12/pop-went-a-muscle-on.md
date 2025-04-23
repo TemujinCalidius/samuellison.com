@@ -13,8 +13,8 @@ categories:
 url: /2025/02/12/pop-went-a-muscle-on.html
 mastodon:
   id: 113990328000576287
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 threads:
   id: 18051509516129761
   url: https://www.threads.net/@thesporetrail/post/DF9_a3BtWZd

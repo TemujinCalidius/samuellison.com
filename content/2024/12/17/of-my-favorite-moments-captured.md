@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/12/17/of-my-favorite-moments-captured.html
 post_id: 4834798
-date: 2024-12-17T16:24:43+1100
-lastmod: 2024-12-17T16:24:43+1100
+custom_summary: false
+summary: ""
+date: 2024-12-17T05:24:43-0000
+lastmod: 2024-12-17T05:24:43-0000
 type: post
 url: /2024/12/17/of-my-favorite-moments-captured.html
 ---

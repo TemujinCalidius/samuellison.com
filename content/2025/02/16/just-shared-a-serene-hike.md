@@ -13,8 +13,8 @@ categories:
 url: /2025/02/16/just-shared-a-serene-hike.html
 mastodon:
   id: 114010898656718472
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreig4lpncqikql46bxxhdotdubcbi2dmn7dlvfi5i7razfjgt5gk5p4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lib2e6py6l2q'

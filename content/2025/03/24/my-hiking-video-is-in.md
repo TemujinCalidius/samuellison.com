@@ -13,8 +13,8 @@ categories:
 url: /2025/03/24/my-hiking-video-is-in.html
 mastodon:
   id: 114219502220061668
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreigh6learojsjkadd5kcjihab6c6y7y3ictaapu2gkql6ujb7iwgze
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ll5os4cv3n2e'

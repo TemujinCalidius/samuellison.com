@@ -13,8 +13,8 @@ categories:
 url: /2025/03/16/ive-got-tomorrow-off-from.html
 mastodon:
   id: 114169416257814194
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreicqecsu7i6dfvipursiqvizdbr5onbnd6gdrpezm4snkqex55l7u4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkhgzp5sr22r'

@@ -11,8 +11,8 @@ type: post
 url: /2025/03/13/if-you-were-to-just.html
 mastodon:
   id: 114157149737059341
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreifbgkbvk2iqkmr2scvlpuwi7tvc75q3pbtrdc3zbuuoqbxbxae7om
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkbypigspg2q'

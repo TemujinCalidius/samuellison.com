@@ -13,8 +13,8 @@ categories:
 url: /2025/02/21/watching-wargames.html
 mastodon:
   id: 114039819408330638
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 threads:
   id: 18056035424013099
   url: https://www.threads.net/@thesporetrail/post/DGUfz1iNmVt

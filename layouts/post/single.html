@@ -7,8 +7,26 @@
 {{ $list = sort $list "Title" }}
 {{ end }}
 <div class="archive_categories">
-    {{ range $list }}
-    <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    <!-- Dynamically filter categories based on the post's categories -->
+    {{ if intersect .Params.categories (slice "Captain's Log" "Video" "Photos" "Sound") }}
+        <!-- Categories for The Journal -->
+        {{ range $list }}
+        {{ if or (eq .Title "Captain's Log") (eq .Title "Video") (eq .Title "Photos") (eq .Title "Sound") }}
+        <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ end }}
+        {{ end }}
+    {{ else if intersect .Params.categories (slice "Articles" "Security" "Tech" "Thoughts") }}
+        <!-- Categories for Other Articles -->
+        {{ range $list }}
+        {{ if or (eq .Title "Articles") (eq .Title "Security") (eq .Title "Tech") (eq .Title "Thoughts") }}
+        <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ end }}
+        {{ end }}
+    {{ else }}
+        <!-- Default: Show all categories -->
+        {{ range $list }}
+        <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ end }}
     {{ end }}
 </div>
 {{ end }}
@@ -16,7 +34,7 @@
 
 {{ $postDateTimeSys := .Date.Format "2006-01-02T15:04:00Z" }}
 {{ $postDateTime := .Date.Format "January 2, 2006" }}
-{{ if .Site.Params.showPostTimeOnIndex}}
+{{ if .Site.Params.showPostTimeOnIndex }}
 {{ $postDateTime = .Date.Format "January 2, 2006 3:04pm" }}
 {{ end }}
 
@@ -94,22 +112,55 @@
         {{ .Content }}
     </article>
 </div>
-{{ if eq .Type "post"}}
-{{ if or (templates.Exists "partials/reply-by-email.html") (templates.Exists "partials/conversation-link.html")
-(templates.Exists "partials/reply-on-mastodon.html") (.Site.Params.showTinylyticsKudos) }}
-<div class="response-options">
-    {{ if .Site.Params.showTinylyticsKudos}}<button class="tinylytics_kudos" type="button"
-        aria-label="Kudos"></button>{{ end }}
-    {{ if templates.Exists "partials/conversation-link.html" }}{{ partial "conversation-link.html" . }}{{ end }}
-    {{ if templates.Exists "partials/reply-by-email.html" }}{{ partial "reply-by-email.html" . }}{{ end }}
-    {{ if templates.Exists "partials/reply-on-mastodon.html" }}{{ partial "reply-on-mastodon.html" . }} {{ end }}
+
+{{ if eq .Type "post" }}
+    {{ if or (templates.Exists "partials/reply-by-email.html") (templates.Exists "partials/conversation-link.html")
+    (templates.Exists "partials/reply-on-mastodon.html") (.Site.Params.showTinylyticsKudos) }}
+    <div class="response-options">
+        {{ if .Site.Params.showTinylyticsKudos }}
+        <button class="tinylytics_kudos" type="button" aria-label="Kudos"></button>
+        {{ end }}
+        {{ if templates.Exists "partials/conversation-link.html" }}
+        {{ partial "conversation-link.html" . }}
+        {{ end }}
+        {{ if templates.Exists "partials/reply-by-email.html" }}
+        {{ partial "reply-by-email.html" . }}
+        {{ end }}
+        {{ if templates.Exists "partials/reply-on-mastodon.html" }}
+        {{ partial "reply-on-mastodon.html" . }}
+        {{ end }}
+    </div>
+    {{ end }}
+
+<!-- Syndication Links -->
+{{ if or .Params.mastodon .Params.pixelfed .Params.bluesky }}
+<div class="syndication-section">
+    <p class="syndication-text">This post also appeared on:</p>
+    <div class="social-media">
+        {{ if .Params.mastodon }}
+        <a class="u-syndication" href="https://{{ .Params.mastodon.hostname }}/@{{ .Params.mastodon.username }}/{{ .Params.mastodon.id }}" target="_blank" title="View on Mastodon">
+            <i class="fab fa-mastodon"></i>
+        </a>
+        {{ end }}
+        {{ if .Params.pixelfed }}
+        <a class="u-syndication" href="https://{{ .Params.pixelfed.hostname }}/i/web/post/{{ .Params.pixelfed.id }}" target="_blank" title="View on Pixelfed">
+            <i class="fas fa-camera"></i>
+        </a>
+        {{ end }}
+        {{ if .Params.bluesky }}
+        <a class="u-syndication" {{ printf "href=%q" .Params.bluesky.link | safeHTMLAttr }} target="_blank" title="View on Bluesky">
+            <i class="fa-brands fa-bluesky"></i>
+        </a>
+        {{ end }}
+    </div>
 </div>
-
 {{ end }}
 
-{{ if templates.Exists "partials/cusdis.html" }} {{ partial "cusdis.html" . }}{{ end }}
-
+{{ if templates.Exists "partials/cusdis.html" }}
+{{ partial "cusdis.html" . }}
 {{ end }}
+{{ end }}
+
 {{ if .Site.Params.include_conversation }}
 <script src="https://micro.blog/conversation.js?url={{ .Permalink }}"></script>
 {{ end }}

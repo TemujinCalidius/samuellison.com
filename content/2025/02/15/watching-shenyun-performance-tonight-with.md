@@ -14,8 +14,8 @@ thumbnail: https://s3.amazonaws.com/micro.blog/thumbnails/2025/02/15/samuellison
 url: /2025/02/15/watching-shenyun-performance-tonight-with.html
 mastodon:
   id: 114005343169674872
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreialisspyz2qhswyyqhddmz4xenvzifwezdviregyllzxv6babrfeq
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3li6lfvvptu2u'

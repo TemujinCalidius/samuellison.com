@@ -13,8 +13,8 @@ categories:
 url: /2025/03/24/ive-finally-finished-editing-and.html
 mastodon:
   id: 114216143102299112
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidiqgm6jtwicvpf6zqlxqfzxg33idg34eio4y2nctcqqnzxh4z52y
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3ll472kjhkf2e'

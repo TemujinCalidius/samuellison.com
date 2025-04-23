@@ -4,11 +4,13 @@ title: "My First Photos!"
 microblog: false
 guid: http://slison.micro.blog/2025/02/02/this-post-is-basically-a.html
 post_id: 4865955
-date: 2025-02-02T12:16:40+1100
-lastmod: 2025-02-02T18:29:27+1100
+custom_summary: false
+summary: ""
+date: 2025-02-02T01:16:40-0000
+lastmod: 2025-02-15T21:50:55-0000
 type: post
 categories:
-- "Articles"
+- "Captain's Log"
 images:
 - https://samuellison.com/uploads/2025/organ-pipes-16-9-4k.jpg
 - https://samuellison.com/uploads/2025/fungi-344.jpg
@@ -47,7 +49,7 @@ bluesky:
 threads:
   id: 18023747807349421
   url: https://www.threads.net/@thesporetrail/post/DFjTwIQtsPy
-  username: thesporetrail
+  username: 
 ---
 This post is basically a re-post of some of my favourite photos so that you are able to find them.
 

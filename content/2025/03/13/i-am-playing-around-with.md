@@ -13,8 +13,8 @@ categories:
 url: /2025/03/13/i-am-playing-around-with.html
 mastodon:
   id: 114152541920592479
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibrpc47ro64rwrctgpq7aa7zbvn4z2mad55q3kibetppanl3qvkla
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lk7xa3sozz2s'

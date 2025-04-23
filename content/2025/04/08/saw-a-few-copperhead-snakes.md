@@ -24,8 +24,8 @@ photos_with_metadata:
 url: /2025/04/08/saw-a-few-copperhead-snakes.html
 mastodon:
   id: 114301312164245133
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidjin6vc7rokyl6yc3b7klrnfazfhf6npydlkbugawepvja5kdaea
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lmbzf2ixy52e'

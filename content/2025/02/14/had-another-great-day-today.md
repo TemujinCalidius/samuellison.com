@@ -32,8 +32,8 @@ photos_with_metadata:
 url: /2025/02/14/had-another-great-day-today.html
 mastodon:
   id: 114001451516133138
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreigy6kptikqk2hk74n7iqlx3kdaduygs7njwt46pu7nejna5vnsjam
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3li4u4axz522l'
@@ -43,8 +43,8 @@ bluesky:
   did: 'did:plc:5jr2zy3bgol6hjw7fxa6pygf'
 pixelfed:
   id: 795941796418206175
-  username: sporetrail
-  hostname: Photos.familylison.com
+  username: 
+  hostname: 
 ---
 Had another great day today on a #hike with my mother. Did the #WhipstickLoop in #WombatStateForest in #Blackwood. 
 

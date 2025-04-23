@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2024/11/27/can-i-ask-is-mastodon.html
 post_id: 4834790
-date: 2024-11-28T04:55:27+1100
-lastmod: 2024-11-28T04:55:27+1100
+custom_summary: false
+summary: ""
+date: 2024-11-27T17:55:27-0000
+lastmod: 2024-11-27T17:55:27-0000
 type: post
 url: /2024/11/27/can-i-ask-is-mastodon.html
 ---

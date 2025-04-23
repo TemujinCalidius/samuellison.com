@@ -290,5 +290,23 @@ body a:active {
   box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px -5px; /* Subtle shadow to make it pop */
 }
 
+/* Tinylytics */
+.tinylytics_kudos {
+  background-color: #d4a373; /* Lighter orange */
+  color: #e5e1de; /* Light text */
+  border: 1px solid #553d1d; /* Subtle border */
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: var(--font-size-normal);
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.tinylytics_kudos:hover {
+  background-color: #FFA07A; /* Vibrant orange */
+  color: #332211; /* Darker text */
+}
+
+
 
 /* END CSS */

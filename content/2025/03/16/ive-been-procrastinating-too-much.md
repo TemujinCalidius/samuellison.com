@@ -13,8 +13,8 @@ categories:
 url: /2025/03/16/ive-been-procrastinating-too-much.html
 mastodon:
   id: 114169296087890572
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreia7yq7ekaa3nzbfzzi7os5uxxm5cjyjq5ksv6tv3cso6rkth3l7i4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkhfcytwdr2e'

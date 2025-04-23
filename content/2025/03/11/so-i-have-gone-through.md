@@ -13,8 +13,8 @@ categories:
 url: /2025/03/11/so-i-have-gone-through.html
 mastodon:
   id: 114142276153981870
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreignckr3peei2j37mdnkvuijwko6x6n6eeajcpnunhiay5gnh4dvqm
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lk3fdr5mfa2h'

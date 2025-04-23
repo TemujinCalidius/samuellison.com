@@ -17,8 +17,8 @@ opengraph:
 url: /2025/03/19/check-out-this-beautiful-soundrecording.html
 mastodon:
   id: 114187815329267335
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidglcvfoydka7e3hasivwdfopdjac7nnxp2htcnqve4vzxxuvr4f4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkpmimoqas2i'

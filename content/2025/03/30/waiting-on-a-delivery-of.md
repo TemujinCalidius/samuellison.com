@@ -13,8 +13,8 @@ categories:
 url: /2025/03/30/waiting-on-a-delivery-of.html
 mastodon:
   id: 114249978971744512
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreic7ga4gg6wxppc3jftbz7fmrtutrxu2wf4c6adajbonbjbosrl5di
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lll7vdvqom25'

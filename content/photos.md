@@ -2,10 +2,10 @@
 title: "Photos"
 navigation: true
 menu: main
-weight: 3
+weight: 2
 layout: list.photoshtml
 type: photos
-date: 2025-01-23T23:41:17+1100
+date: 2025-04-20T03:42:35-0000
 url: /photos/
 ---
 

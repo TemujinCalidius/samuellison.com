@@ -48,8 +48,8 @@ photos_with_metadata:
 url: /2025/03/12/some-more-beautiful-postcards-have.html
 mastodon:
   id: 114147708763075352
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreidcen3b7bfknsjblppi5xvm3hcd2nddg3q3xbxekzqawchcxkhohy
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lk5skjg5zx2e'

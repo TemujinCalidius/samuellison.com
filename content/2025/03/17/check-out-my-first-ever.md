@@ -17,8 +17,8 @@ opengraph:
 url: /2025/03/17/check-out-my-first-ever.html
 mastodon:
   id: 114176542045670465
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreietxexcof6rwyl4cmqbroeqi3qidactcr4inuq7gqocstz5ynzw7a
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkkmc7eawk2a'

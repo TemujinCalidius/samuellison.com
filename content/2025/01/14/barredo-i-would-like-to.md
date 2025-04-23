@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/14/barredo-i-would-like-to.html
 post_id: 4834800
-date: 2025-01-14T21:13:15+1100
-lastmod: 2025-01-14T21:13:15+1100
+custom_summary: false
+summary: ""
+date: 2025-01-14T10:13:15-0000
+lastmod: 2025-01-14T10:13:15-0000
 type: post
 url: /2025/01/14/barredo-i-would-like-to.html
 ---

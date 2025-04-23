@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/28/this-is-one-of-my.html
 post_id: 4854538
-date: 2025-01-28T13:19:48+1100
-lastmod: 2025-02-02T18:27:17+1100
+custom_summary: false
+summary: ""
+date: 2025-01-28T02:19:48-0000
+lastmod: 2025-02-02T07:27:17-0000
 type: post
 categories:
 - "Video"
@@ -12,8 +14,8 @@ thumbnail: https://s3.amazonaws.com/micro.blog/thumbnails/2025/01/28/samuellison
 url: /2025/01/28/this-is-one-of-my.html
 mastodon:
   id: 113903586078695085
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreicz7xsknhj6rgpyrxirwiwazzallvla4gkoiosehom3d7nzim67fu
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lgrfe3inlz2s'
@@ -24,7 +26,7 @@ bluesky:
 threads:
   id: 18100005415494024
   url: https://www.threads.net/@thesporetrail/post/DFWi5scKcYC
-  username: thesporetrail
+  username: 
 ---
 This is one of my first Nature Walk videos that I had my daughter film for me while we went on a walk around the Brimbank Park, local to me.
 

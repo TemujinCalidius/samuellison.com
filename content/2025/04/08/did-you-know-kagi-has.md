@@ -13,8 +13,8 @@ categories:
 url: /2025/04/08/did-you-know-kagi-has.html
 mastodon:
   id: 114304746558613670
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreibwz367uebefv3mhlzxzkm2znv5hprtuqxiucdkios3e5el3ldetm
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lmdk6qxtcj2w'

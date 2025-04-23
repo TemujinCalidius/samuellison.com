@@ -14,8 +14,8 @@ categories:
 url: /2025/04/09/finally-logged-into-opensimulator-and.html
 mastodon:
   id: 114306514318939261
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreiere3d6oer2gal5p3sc64a4encsdtboo6pmli6kadl3vatz677wu4
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lmedcmzakc2g'

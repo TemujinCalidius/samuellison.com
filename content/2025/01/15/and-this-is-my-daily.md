@@ -3,8 +3,10 @@ layout: post
 microblog: true
 guid: http://slison.micro.blog/2025/01/15/and-this-is-my-daily.html
 post_id: 4834806
-date: 2025-01-15T20:10:49+1100
-lastmod: 2025-01-24T00:00:48+1100
+custom_summary: false
+summary: ""
+date: 2025-01-15T09:10:49-0000
+lastmod: 2025-01-23T13:00:48-0000
 type: post
 categories:
 - "Thoughts"

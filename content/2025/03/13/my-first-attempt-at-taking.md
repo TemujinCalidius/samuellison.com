@@ -24,8 +24,8 @@ photos_with_metadata:
 url: /2025/03/13/my-first-attempt-at-taking.html
 mastodon:
   id: 114154618273158240
-  username: samuel
-  hostname: Social.familylison.com
+  username: 
+  hostname: 
 bluesky:
   id: bafyreien5mv7aabzwjpm77y6znp7yjwhqjv25fd7dowynt66wjbbak4jia
   url: 'at://did:plc:5jr2zy3bgol6hjw7fxa6pygf/app.bsky.feed.post/3lkauqdtxck2r'
@@ -35,8 +35,8 @@ bluesky:
   did: 'did:plc:5jr2zy3bgol6hjw7fxa6pygf'
 pixelfed:
   id: 805744440028397044
-  username: sporetrail
-  hostname: Photos.familylison.com
+  username: 
+  hostname: 
 ---
 My first attempt at taking a long exposure of the moon with the #NikonD7000, a 14 year old DSLR.
 
