@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2025/07/14/i-managed-to-tick-off.html",
+				
+				"content_html": "<p>I managed to tick off all my tasks today. Even after a full days work. I feel I haven&rsquo;t got much time left to myself today, but lets keep on pushing and accomplish the same outcome tomorrow!</p>\n",
+				"content_text": "\nI managed to tick off all my tasks today. Even after a full days work. I feel I haven't got much time left to myself today, but lets keep on pushing and accomplish the same outcome tomorrow!\n",
+				"date_published": "2025-07-14T10:26:08+00:00",
+				"url": "https://samuellison.com/2025/07/14/i-managed-to-tick-off.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/07/13/day-of-getting-back-into.html",
+				
+				"content_html": "<p>Day 1 of getting back into my daily tasks commitment with less procrastination. Back to work first this morning, after the last week off. I <strong>MUST</strong> do these tasks when I get home from work, before sitting on the PC!</p>\n",
+				"content_text": "\nDay 1 of getting back into my daily tasks commitment with less procrastination. Back to work first this morning, after the last week off. I **MUST** do these tasks when I get home from work, before sitting on the PC!\n",
+				"date_published": "2025-07-13T21:19:26+00:00",
+				"url": "https://samuellison.com/2025/07/13/day-of-getting-back-into.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2025/07/13/ive-been-really-bad-over.html",
+				
+				"content_html": "<p>I&rsquo;ve been really bad over the last couple weeks with my daily routine. I have no been ticking off my important tasks that I had set myself to commit for health and mind. Time for change!!! 🗯️</p>\n",
+				"content_text": "\nI've been really bad over the last couple weeks with my daily routine. I have no been ticking off my important tasks that I had set myself to commit for health and mind. Time for change!!! 🗯️\n",
+				"date_published": "2025-07-13T10:53:07+00:00",
+				"url": "https://samuellison.com/2025/07/13/ive-been-really-bad-over.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://slison.micro.blog/2025/07/13/done-lots-of-editing-in.html",
 				
 				"content_html": "<p>Done lots of editing in #Obsidian again. I&rsquo;m now able to look back at previous weeks, months, years and see how many short thoughts I posted, photos I sent over to Pixelfed, as well as observations of fungi and nature I made and posted on iNaturalist and draft up a recap.</p>\n",
