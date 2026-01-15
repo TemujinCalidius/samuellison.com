@@ -7,11 +7,20 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2026/01/16/along-with-my-learning-of.html",
+				
+				"content_html": "<p>Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.</p>\n<p>I’ve been so happy with the progress.</p>\n<p>Here’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.\n\nI’ve been so happy with the progress. \n\nHere’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒 \n\n\n<img src=\"uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\">\n",
+				"date_published": "2026-01-16T07:11:45+10:00",
+				"url": "https://samuellison.com/2026/01/16/along-with-my-learning-of.html",
+				"tags": ["Thoughts","Photos","Captain's Log"]
+			},
+			{
 				"id": "http://slison.micro.blog/2026/01/08/im-taking-a-udemy-course.html",
 				
 				"content_html": "<p>I’m taking a #Udemy course on #Blender with 160+ hours of content. I want to help more in our indie game. As the visionary, I’ve directed and ideated, but joining in can speed up our process for players!</p>\n",
 				"content_text": "I’m taking a #Udemy course on #Blender with 160+ hours of content. I want to help more in our indie game. As the visionary, I’ve directed and ideated, but joining in can speed up our process for players!\n",
-				"date_published": "2026-01-08T13:25:13+11:00",
+				"date_published": "2026-01-08T12:25:13+10:00",
 				"url": "https://samuellison.com/2026/01/08/im-taking-a-udemy-course.html",
 				"tags": ["Thoughts"]
 			},
@@ -20,7 +29,7 @@
 				
 				"content_html": "<p>I made my own sound effects and coded a health and energy HUD that has a special effect on exhaustion. Check it out <a href=\"https://youtu.be/xTTX2I0yERg\">youtu.be/xTTX2I0yE&hellip;</a> - I haven&rsquo;t even started building the world yet.</p>\n",
 				"content_text": "I made my own sound effects and coded a health and energy HUD that has a special effect on exhaustion. Check it out [youtu.be/xTTX2I0yE...](https://youtu.be/xTTX2I0yERg) - I haven't even started building the world yet.\n",
-				"date_published": "2026-01-05T10:33:32+11:00",
+				"date_published": "2026-01-05T09:33:32+10:00",
 				"url": "https://samuellison.com/2026/01/05/i-made-my-own-sound.html",
 				"tags": ["Thoughts"]
 			},
@@ -29,7 +38,7 @@
 				
 				"content_html": "<p>Small update. I&rsquo;ve been deep in code learning #Luau and now playing around with #RobloxStudio as I learn more. AI has been handy in that instead of asking it to &ldquo;spit out code&rdquo; - I prompt it to act as a mentor and teacher, guiding me where to &ldquo;look&rdquo; prior to giving me examples if I ask for help.</p>\n",
 				"content_text": "Small update. I've been deep in code learning #Luau and now playing around with #RobloxStudio as I learn more. AI has been handy in that instead of asking it to \"spit out code\" - I prompt it to act as a mentor and teacher, guiding me where to \"look\" prior to giving me examples if I ask for help.\n",
-				"date_published": "2026-01-05T10:31:38+11:00",
+				"date_published": "2026-01-05T09:31:38+10:00",
 				"url": "https://samuellison.com/2026/01/05/small-update-ive-been-deep.html",
 				"tags": ["Thoughts"]
 			},
@@ -38,7 +47,7 @@
 				
 				"content_html": "<p>I signed up to #Udemy to take on their #Lua and #Love2D courses.</p>\n",
 				"content_text": "I signed up to #Udemy to take on their #Lua and #Love2D courses.\n",
-				"date_published": "2025-12-29T17:47:10+11:00",
+				"date_published": "2025-12-29T16:47:10+10:00",
 				"url": "https://samuellison.com/2025/12/29/i-signed-up-to-udemy.html",
 				"tags": ["Thoughts"]
 			},
