@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2026/01/27/one-more-day-of-work.html",
+				
+				"content_html": "<p>One more day of work and I get a 6 day break. Busy week planned ahead!</p>\n",
+				"content_text": "One more day of work and I get a 6 day break. Busy week planned ahead!\n",
+				"date_published": "2026-01-27T12:45:01+11:00",
+				"url": "https://samuellison.com/2026/01/27/one-more-day-of-work.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://slison.micro.blog/2026/01/21/photo-of-a-koala-taken.html",
 				
 				"content_html": "<p>Photo of a #Koala taken at the #AustraliaZoo to cheer up your days.</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +55,7 @@
 				"id": "http://slison.micro.blog/2026/01/16/along-with-my-learning-of.html",
 				
 				"content_html": "<p>Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.</p>\n<p>I’ve been so happy with the progress.</p>\n<p>Here’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.\n\nI’ve been so happy with the progress. \n\nHere’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒 \n\n\n<img src=\"uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\">\n",
+				"content_text": "Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.\n\nI’ve been so happy with the progress. \n\nHere’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒 \n\n\n<img src=\"https://samuellison.com/uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\">\n",
 				"date_published": "2026-01-16T08:11:45+11:00",
 				"url": "https://samuellison.com/2026/01/16/along-with-my-learning-of.html",
 				"tags": ["Thoughts","Photos","Captain's Log"]
