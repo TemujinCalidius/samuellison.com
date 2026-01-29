@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2026/01/29/todays-highlights-got-my-tesla.html",
+				
+				"content_html": "<p>Today’s highlights: Got my #Tesla serviced after 102k km—only $360 plus a free Uber ride! 🚗 Also, been diving deep into #MoltBot research—dreaming of a personal #AI assistant (once I figure out how to lock it down)! 😉</p>\n",
+				"content_text": "Today’s highlights: Got my #Tesla serviced after 102k km—only $360 plus a free Uber ride! 🚗 Also, been diving deep into #MoltBot research—dreaming of a personal #AI assistant (once I figure out how to lock it down)! 😉\n",
+				"date_published": "2026-01-29T17:30:45+11:00",
+				"url": "https://samuellison.com/2026/01/29/todays-highlights-got-my-tesla.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2026/01/28/im-very-interested-in-this.html",
+				
+				"content_html": "<p>I’m very interested in this clawdbot/moltbot assistant…. Looking into it with great enthusiasm.</p>\n",
+				"content_text": "I’m very interested in this clawdbot/moltbot assistant…. Looking into it with great enthusiasm.\n",
+				"date_published": "2026-01-28T11:56:18+11:00",
+				"url": "https://samuellison.com/2026/01/28/im-very-interested-in-this.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://slison.micro.blog/2026/01/27/one-more-day-of-work.html",
 				
 				"content_html": "<p>One more day of work and I get a 6 day break. Busy week planned ahead!</p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://slison.micro.blog/2026/01/21/some-photos-taken-at-australiazoo.html",
 				
 				"content_html": "<p>Some photos taken at #AustraliaZoo with #RobertIrwin at the #Crocoseum doing a show and educating us into the dangers of crocodiles on the waters edge vs on land.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Some photos taken at #AustraliaZoo with #RobertIrwin at the #Crocoseum doing a show and educating us into the dangers of crocodiles on the waters edge vs on land.\n\n<img src=\"uploads/2026/b6daddd837.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2026/90663cabe5.jpg\" width=\"600\" height=\"399\" alt=\"\"><img src=\"uploads/2026/f785d5c8a7.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2026/bf72ba6894.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Some photos taken at #AustraliaZoo with #RobertIrwin at the #Crocoseum doing a show and educating us into the dangers of crocodiles on the waters edge vs on land.\n\n<img src=\"https://samuellison.com/uploads/2026/b6daddd837.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/90663cabe5.jpg\" width=\"600\" height=\"399\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/f785d5c8a7.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/bf72ba6894.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2026-01-21T09:53:37+11:00",
 				"url": "https://samuellison.com/2026/01/21/some-photos-taken-at-australiazoo.html",
 				"tags": ["Thoughts","Photos","Captain's Log"]
@@ -55,7 +73,7 @@
 				"id": "http://slison.micro.blog/2026/01/16/along-with-my-learning-of.html",
 				
 				"content_html": "<p>Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.</p>\n<p>I’ve been so happy with the progress.</p>\n<p>Here’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.\n\nI’ve been so happy with the progress. \n\nHere’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒 \n\n\n<img src=\"https://samuellison.com/uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\">\n",
+				"content_text": "Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.\n\nI’ve been so happy with the progress. \n\nHere’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒 \n\n\n<img src=\"uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\">\n",
 				"date_published": "2026-01-16T08:11:45+11:00",
 				"url": "https://samuellison.com/2026/01/16/along-with-my-learning-of.html",
 				"tags": ["Thoughts","Photos","Captain's Log"]
