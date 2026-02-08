@@ -1,0 +1,131 @@
+---
+title: "About Me"
+navigation: true
+menu: main
+weight: 1
+date: 2025-01-24T10:16:53+1100
+url: /about-me/
+---
+<div class="about-page">
+      <div class="profile-container">
+          <img src="https://samuellison.com/uploads/2025/sam-profile.jpg" alt="Samuel Lison" class="profile-photo">
+          <h2>Samuel Lison</h2>
+          <div class="social-media">
+              <a href="https://social.familylison.com/@samuel" target="_blank" title="Mastodon"><i class="fab fa-mastodon"></i> Mastodon</a>
+              <a href="https://photos.familylison.com/sporetrail" target="_blank" title="Pixelfed"><i class="fas fa-camera"></i> Pixelfed</a>
+              <a href="https://makertube.net/c/thesporetrail" target="_blank" title="MakerTube"><i class="fas fa-video"></i> MakerTube</a>
+              <a href="https://www.youtube.com/@TheSporeTrail" target="_blank" title="YouTube"><i class="fab fa-youtube"></i> YouTube</a>
+              <a href="https://bsky.app/profile/samuellison.bsky.social" target="_blank" title="Bluesky"><i class="fab fa-bluesky"></i> Bluesky</a>
+              <a href="https://x.com/SamuelLison" target="_blank" title="X"><i class="fab fa-x-twitter"></i> X</a>
+              <a href="https://www.facebook.com/thesporetrail" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i> Facebook</a>
+              <a href="https://www.instagram.com/thesporetrail" target="_blank" title="Instagram"><i class="fab fa-instagram"></i> Instagram</a>
+              <a href="https://www.threads.net/@thesporetrail" target="_blank" title="Threads"><i class="fab fa-threads"></i> Threads</a>
+              <a href="mailto:samuel@familylison.com" title="Email"><i class="fas fa-envelope"></i> Email</a>
+              <a href="https://keys.openpgp.org/search?q=samuel%40familylison.com" target="_blank" title="PGP Key"><i class="fas fa-key"></i> PGP Key</a>
+              <a href="https://matrix.to/#/@samuel:matrix.familylison.com" target="_blank" title="Matrix"><i class="fas fa-comments"></i> Matrix</a>
+          </div>
+      </div>   
+  		<div class="about-content">
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Welcome to my personal corner on the web! I'm Samuel Lison, and I am from
+      Australia.<br>
+      <br>
+      My journey into photography and hiking began late in life, around
+      mid-2024. I never thought I would be interested in hiking, not even
+      photography. I've never taken courses on photography, nor have I really
+      been taught about nature. But something drew my attention as I noticed
+      over the years that I would enjoy taking quick snaps using my mobile
+      phone, taking advantage of the macro photo technology on mobile phones,
+      especially of beautiful fungi.<br>
+      <br>
+      Over the years, I noticed I had quite a collection in my photo gallery of
+      close-up photos of the fungi world, and I developed an interest in video
+      editing and basic graphic design for one of my side indie-game projects
+      I've been working on for more than 6 years, called <a href="https://slcolonies.com"
+        target="_blank">SL Colonies</a>.<br>
+      <br>
+      I asked my younger brother, who was great at photographing cars, if I
+      could borrow his old <a href="https://www.nikonusa.com/p/d7000/25468/overview"
+        target="_blank">Nikon D7000</a> and started snapping away and
+      practicing. Little did I know that I would absolutely love this new-found
+      hobby, and I would go on long day walks in local state and national
+      forests looking for the beauty of fungi to snap and edit photos of for
+      myself.<br>
+      <br>
+      Of course, mushrooms tend not to grow in summer periods, so I found myself
+      transitioning into hiking, not focused just on the photos. With that came
+      an interest and a culmination of both hiking and photography, which I
+      intend to keep doing over a long period of my life.</p>
+    <h2>Why I Made This Site</h2>
+    <p>So, I started sharing photos and videos of my hikes on social media. But
+      I also found that social media and the internet were not what they used to
+      be. It's all about data gathering, fingerprinting, and selling your data
+      to advertising agencies. So a side hobby of mine became setting up my own
+      servers to regain control and ownership of my own data.<br>
+      <br>
+      This website has become my main identity. I use a lot of various social
+      media platforms, and it is hard to post one thing and copy it over to all
+      these different silos and try to see responses and questions to your work
+      without spending all day on social media. This HUB, my website, allows me
+      to make one post and cross-post to a bunch of other providers and also
+      tracks responses in one location, allowing for a community HUB for
+      interaction and sharing.<br>
+      <br>
+      So, not only will you find my photos here as I edit them, but I will also
+      share my full hiking videos and sounds that I have gone out and recorded
+      in nature.</p>
+    <h2>My Hobbies</h2>
+    Beyond photography and hiking, my hobbies revolve around technology,
+    particularly in my home office. I love editing my videos and photos and
+    enjoy tinkering with websites and services. I'm always exploring technology
+    at home, whether it's setting up websites, managing my NAS, upgrading my
+    network, or optimizing my personal office space.<br>
+    <br>
+    Reading has been a big part of my life, with interests in consciousness,
+    DMT, psychedelics, witchcraft, esoteric practices, and meditation. However,
+    now I focus on one book, <a href="https://en.falundafa.org/" target="_blank">Falun
+      Dafa</a>, which I read over and over as part of my daily cultivation
+    practice.<br>
+    <br>
+    I love hiking within an hour from home but am planning longer trips with my
+    family around Victoria and Australia. I'm not particularly interested in
+    overseas travel, as I believe there's so much to experience in my local area
+    and country. I enjoy finding trails, especially loops that offer a few hours
+    of serene bush walking, away from the tourist crowds. On these walks, I look
+    for fascinating details like fungi or flowers to photograph. Recently, I've
+    started recording my full hikes to provide traceability and origin for my
+    photos, sharing the exact moment when and where they were taken.<br>
+    <br>
+    My focus on privacy has grown, leading me to de-Google my phone, use <a href="https://grapheneos.org/"
+      target="_blank">GrapheneOS</a> for enhanced security, and keep app usage
+    to a minimum. I communicate through secure messaging apps like <a href="https://www.matrix.org/"
+      target="_blank">Matrix/Element</a> and run my own servers for encrypted
+    messaging, social media platforms like <a href="https://joinmastodon.org/"
+      target="_blank">Mastodon</a> and <a href="https://pixelfed.org/" target="_blank">Pixelfed</a>,
+    and host my website with <a href="https://micro.blog" target="_blank">Micro.blog</a>
+    for <a href="https://indieweb.org/" target="_blank">IndieWeb</a> practices.
+    On my PC, I avoid proprietary software, opting for Linux (specifically <a href="https://system76.com/pop"
+      target="_blank">POP!_OS</a> for its ease of learning) and <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"
+      target="_blank">FOSS</a> (Free and Open Source Software). I use containers
+    in VMs for any non-open-source applications, ensuring I can easily wipe and
+    reinstall if needed. For web browsing, I use containers to minimize
+    fingerprinting, and I route all my browsing through TOR via a <a href="https://www.whonix.org/"
+      target="_blank">WHONIX</a> VM for casual browsing. I maintain a VPN
+    connection for all activities on both my phone and PC, and I use encrypted
+    PGP email and <a href="https://proton.me/mail" target="_blank">ProtonMail</a>.
+    My approach to technology isn't about anonymity but about controlling my
+    data and information, providing algorithms only with the information I
+    choose to share, considering how much these businesses profit from our data.<br>
+    <br>
+    I hope this site inspires you to explore, capture, and share
+    your own adventures or simply to appreciate the beauty of the world through
+    my lens. Feel free to connect with me on social media, email or encrypted
+    messaging for any inquiries, or to share your thoughts!
+  </body>
+</html>
+    </div>
+</div>
