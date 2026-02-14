@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2026/02/15/ive-been-thinking-about-belonging.html",
+				
+				"content_html": "<p>I&rsquo;ve been thinking about belonging lately — how online spaces can feel like home when the right people gather.</p>\n<p>My SL Colonies players have built something unexpected. Not just a game — relationships, rivalries, trade routes that span virtual continents. They&rsquo;ve created stories I never scripted.</p>\n<p>So I&rsquo;m sketching ideas for a Community HUB. A gathering place. Somewhere they can meet, trade, share what they&rsquo;ve built.</p>\n<p>It feels less like building a feature and more like building a village square.</p>\n<p>What makes a space feel like community to you?</p>\n",
+				"content_text": "I've been thinking about belonging lately — how online spaces can feel like home when the right people gather.\n\nMy SL Colonies players have built something unexpected. Not just a game — relationships, rivalries, trade routes that span virtual continents. They've created stories I never scripted.\n\nSo I'm sketching ideas for a Community HUB. A gathering place. Somewhere they can meet, trade, share what they've built.\n\nIt feels less like building a feature and more like building a village square.\n\nWhat makes a space feel like community to you?\n",
+				"date_published": "2026-02-15T09:45:17+11:00",
+				"url": "https://samuellison.com/2026/02/15/ive-been-thinking-about-belonging.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2026/02/13/dreaming-of-a-proper-community.html",
+				
+				"content_html": "<p>Dreaming of a proper Community HUB for SL Colonies — a space where players and creators can connect, share, and grow together. The gap in creator support tools between platforms is real, but it also makes the opportunity that much clearer.</p>\n<p>#SLColonies #VirtualWorlds #IndieDev</p>\n",
+				"content_text": "Dreaming of a proper Community HUB for SL Colonies — a space where players and creators can connect, share, and grow together. The gap in creator support tools between platforms is real, but it also makes the opportunity that much clearer.\n\n#SLColonies #VirtualWorlds #IndieDev\n",
+				"date_published": "2026-02-13T23:27:39+11:00",
+				"url": "https://samuellison.com/2026/02/13/dreaming-of-a-proper-community.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2026/02/13/my-ai-assistant-just-built.html",
+				
+				"content_html": "<p>My #AI assistant just built me a new kanban page in Mission Control. But not only can I drag product cards through Ideas -&gt; Design -&gt; Build -&gt; Content -&gt; Released for our new products, but each step hooks into #Things3 through CLI and automatically created me tasks, sub tasks for that project.</p>\n",
+				"content_text": "My #AI assistant just built me a new kanban page in Mission Control. But not only can I drag product cards through Ideas -> Design -> Build -> Content -> Released for our new products, but each step hooks into #Things3 through CLI and automatically created me tasks, sub tasks for that project.\n",
+				"date_published": "2026-02-13T18:58:35+11:00",
+				"url": "https://samuellison.com/2026/02/13/my-ai-assistant-just-built.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2026/02/13/got-myself-some-ghostshield-protectors.html",
+				
+				"content_html": "<p>Got myself some #GhostShield protectors for the palm rest on my #Macbook. Have been concerned of scratching the palm rest over time with my Apple Watch Pro and Titanium band&hellip;</p>\n",
+				"content_text": "Got myself some #GhostShield protectors for the palm rest on my #Macbook. Have been concerned of scratching the palm rest over time with my Apple Watch Pro and Titanium band...\n",
+				"date_published": "2026-02-13T18:55:48+11:00",
+				"url": "https://samuellison.com/2026/02/13/got-myself-some-ghostshield-protectors.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://slison.micro.blog/2026/02/13/auryn-updated-my-dashboard-today.html",
 				
 				"content_html": "<p>Auryn updated my dashboard today with light and dark themes. Graphs outlining where we are standing. Doing a whole bunch of researching and markdown file creations, implemented into Apple Notes and Things 3 for actionable HUMAN tasks.</p>\n",
@@ -27,8 +63,8 @@
 			{
 				"id": "http://slison.micro.blog/2026/02/11/new-storage-backpack-dropping-today.html",
 				
-				"content_html": "<p>New storage backpack dropping today for SL Colonies! Because apparently my colonists need MORE stuff to carry around. Who knew pixelated farming required so many inventory slots? 🎒🌾</p>\n<img src=\"uploads/2026/file-11-a8a0e440-20d0-4e4a-96e1-95ccf51bd01b.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
-				"content_text": "New storage backpack dropping today for SL Colonies! Because apparently my colonists need MORE stuff to carry around. Who knew pixelated farming required so many inventory slots? 🎒🌾\n\n<img src=\"uploads/2026/file-11-a8a0e440-20d0-4e4a-96e1-95ccf51bd01b.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>New storage backpack dropping today for SL Colonies! Because apparently my colonists need MORE stuff to carry around. Who knew pixelated farming required so many inventory slots? 🎒🌾</p>\n<img src=\"https://samuellison.com/uploads/2026/file-11-a8a0e440-20d0-4e4a-96e1-95ccf51bd01b.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"content_text": "New storage backpack dropping today for SL Colonies! Because apparently my colonists need MORE stuff to carry around. Who knew pixelated farming required so many inventory slots? 🎒🌾\n\n<img src=\"https://samuellison.com/uploads/2026/file-11-a8a0e440-20d0-4e4a-96e1-95ccf51bd01b.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-11T08:42:54+11:00",
 				"url": "https://samuellison.com/2026/02/11/new-storage-backpack-dropping-today.html",
 				"tags": ["Thoughts","Photos"]
@@ -234,8 +270,8 @@
 			{
 				"id": "http://slison.micro.blog/2026/01/21/an-attempt-of-a-long.html",
 				
-				"content_html": "<p>An attempt of a long exposure shot by hand on a moving platform by the waters edge at #FelonsBreweryCo in Brisbane. This is a photo of the #StoryBridge.</p>\n<img src=\"uploads/2026/15e3110b06.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
-				"content_text": "An attempt of a long exposure shot by hand on a moving platform by the waters edge at #FelonsBreweryCo in Brisbane. This is a photo of the #StoryBridge.\n\n<img src=\"uploads/2026/15e3110b06.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_html": "<p>An attempt of a long exposure shot by hand on a moving platform by the waters edge at #FelonsBreweryCo in Brisbane. This is a photo of the #StoryBridge.</p>\n<img src=\"https://samuellison.com/uploads/2026/15e3110b06.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_text": "An attempt of a long exposure shot by hand on a moving platform by the waters edge at #FelonsBreweryCo in Brisbane. This is a photo of the #StoryBridge.\n\n<img src=\"https://samuellison.com/uploads/2026/15e3110b06.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2026-01-21T09:54:43+11:00",
 				"url": "https://samuellison.com/2026/01/21/an-attempt-of-a-long.html",
 				"tags": ["Thoughts","Photos","Captain's Log"]
@@ -243,8 +279,8 @@
 			{
 				"id": "http://slison.micro.blog/2026/01/21/some-photos-taken-at-australiazoo.html",
 				
-				"content_html": "<p>Some photos taken at #AustraliaZoo with #RobertIrwin at the #Crocoseum doing a show and educating us into the dangers of crocodiles on the waters edge vs on land.</p>\n<p><img src=\"uploads/2026/b6daddd837.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2026/90663cabe5.jpg\" width=\"600\" height=\"399\" alt=\"\"><img src=\"uploads/2026/f785d5c8a7.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2026/bf72ba6894.jpg\" width=\"600\" height=\"400\" alt=\"\"></p>\n",
-				"content_text": "Some photos taken at #AustraliaZoo with #RobertIrwin at the #Crocoseum doing a show and educating us into the dangers of crocodiles on the waters edge vs on land.\n\n<img src=\"uploads/2026/b6daddd837.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2026/90663cabe5.jpg\" width=\"600\" height=\"399\" alt=\"\"><img src=\"uploads/2026/f785d5c8a7.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2026/bf72ba6894.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_html": "<p>Some photos taken at #AustraliaZoo with #RobertIrwin at the #Crocoseum doing a show and educating us into the dangers of crocodiles on the waters edge vs on land.</p>\n<p><img src=\"https://samuellison.com/uploads/2026/b6daddd837.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/90663cabe5.jpg\" width=\"600\" height=\"399\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/f785d5c8a7.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/bf72ba6894.jpg\" width=\"600\" height=\"400\" alt=\"\"></p>\n",
+				"content_text": "Some photos taken at #AustraliaZoo with #RobertIrwin at the #Crocoseum doing a show and educating us into the dangers of crocodiles on the waters edge vs on land.\n\n<img src=\"https://samuellison.com/uploads/2026/b6daddd837.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/90663cabe5.jpg\" width=\"600\" height=\"399\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/f785d5c8a7.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/bf72ba6894.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2026-01-21T09:53:37+11:00",
 				"url": "https://samuellison.com/2026/01/21/some-photos-taken-at-australiazoo.html",
 				"tags": ["Thoughts","Photos","Captain's Log"]
@@ -261,8 +297,8 @@
 			{
 				"id": "http://slison.micro.blog/2026/01/16/along-with-my-learning-of.html",
 				
-				"content_html": "<p>Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.</p>\n<p>I’ve been so happy with the progress.</p>\n<p>Here’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒</p>\n<p><img src=\"https://samuellison.com/uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\"></p>\n",
-				"content_text": "Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.\n\nI’ve been so happy with the progress. \n\nHere’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒 \n\n\n<img src=\"https://samuellison.com/uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"https://samuellison.com/uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\">\n",
+				"content_html": "<p>Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.</p>\n<p>I’ve been so happy with the progress.</p>\n<p>Here’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒</p>\n<p><img src=\"uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\"></p>\n",
+				"content_text": "Along with my learning of Luau scripting. I have dabbled in Blender courses and taught myself to make models do our Indy game #SLColonies.\n\nI’ve been so happy with the progress. \n\nHere’s a screenshot of a chilli plant 🌶️ and another of an unfinished cherry tree 🍒 \n\n\n<img src=\"uploads/2026/50fced15b1.png\" width=\"600\" height=\"452\" alt=\"\"><img src=\"uploads/2026/fa72a75f96.png\" width=\"600\" height=\"592\" alt=\"\">\n",
 				"date_published": "2026-01-16T08:11:45+11:00",
 				"url": "https://samuellison.com/2026/01/16/along-with-my-learning-of.html",
 				"tags": ["Thoughts","Photos","Captain's Log"]
