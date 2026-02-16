@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2026/02/16/weekly-recap-february-february-auryn.html",
+				
+				"content_html": "<p>Weekly Recap: February 9 — February 15, 2026. Auryn and I deployed the Ops Guardian, hardened security, built Mission Control with Product Kanban, and confirmed the Chronicles livestream. A foundational week.</p>\n",
+				"content_text": "Weekly Recap: February 9 — February 15, 2026. Auryn and I deployed the Ops Guardian, hardened security, built Mission Control with Product Kanban, and confirmed the Chronicles livestream. A foundational week.\n",
+				"date_published": "2026-02-16T14:55:22+11:00",
+				"url": "https://samuellison.com/2026/02/16/weekly-recap-february-february-auryn.html",
+				"tags": ["Thoughts","Captain's Log"]
+			},
+			{
+				"id": "http://slison.micro.blog/2026/02/16/moved-openclaw-to-its-own.html",
+				
+				"content_html": "<p>Moved OpenClaw to its own #MacMini — dedicated hardware, always on, always listening. Having a permanent home for the agents changes everything. No more laptop dependencies or sleeping systems. The infrastructure finally matches the ambition.</p>\n",
+				"content_text": "Moved OpenClaw to its own #MacMini — dedicated hardware, always on, always listening. Having a permanent home for the agents changes everything. No more laptop dependencies or sleeping systems. The infrastructure finally matches the ambition.\n",
+				"date_published": "2026-02-16T14:55:14+11:00",
+				"url": "https://samuellison.com/2026/02/16/moved-openclaw-to-its-own.html",
+				"tags": ["Thoughts","microblog"]
+			},
+			{
 				"id": "http://slison.micro.blog/2026/02/15/ive-been-thinking-about-belonging.html",
 				
 				"content_html": "<p>I&rsquo;ve been thinking about belonging lately — how online spaces can feel like home when the right people gather.</p>\n<p>My SL Colonies players have built something unexpected. Not just a game — relationships, rivalries, trade routes that span virtual continents. They&rsquo;ve created stories I never scripted.</p>\n<p>So I&rsquo;m sketching ideas for a Community HUB. A gathering place. Somewhere they can meet, trade, share what they&rsquo;ve built.</p>\n<p>It feels less like building a feature and more like building a village square.</p>\n<p>What makes a space feel like community to you?</p>\n",
