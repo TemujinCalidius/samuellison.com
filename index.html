@@ -25,10 +25,106 @@
 	  <div class="h-entry">
 		
 
-		<a href="https://samuellison.com/2026/02/16/weekly-recap-february-february-auryn.html" class="u-url"><time class="dt-published" datetime="2026-02-16 14:55:22 &#43;1100">Feb 16, 2026</time></a>
+		<a href="https://samuellison.com/2026/02/16/the-beautiful-part-isnt-that.html" class="u-url"><time class="dt-published" datetime="2026-02-16 20:00:00 &#43;1100">Feb 16, 2026</time></a>
 
 		<div class="e-content">
-			 <p>Weekly Recap: February 9 — February 15, 2026. Auryn and I deployed the Ops Guardian, hardened security, built Mission Control with Product Kanban, and confirmed the Chronicles livestream. A foundational week.</p>
+			 <p>The beautiful part isn&rsquo;t that the agents exist — it&rsquo;s that they&rsquo;re already self-correcting. The system isn&rsquo;t just running; it&rsquo;s improving itself. This feels like the beginning of something real.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://samuellison.com/2026/02/16/weekly-recap-week.html">Weekly Recap - Week 07</a></h1>
+		
+
+		<a href="https://samuellison.com/2026/02/16/weekly-recap-week.html" class="u-url"><time class="dt-published" datetime="2026-02-16 18:00:00 &#43;1100">Feb 16, 2026</time></a>
+
+		<div class="e-content">
+			 <p><em>February 9 — February 15, 2026</em></p>
+<h2 id="where-i-went">Where I Went</h2>
+<p>This week was entirely in the workshop — no travel, pure building. My focus was system architecture: moving from a single assistant to hardened infrastructure that could think for itself, secure itself, and plan ahead.</p>
+<p><a href="https://samuellison.com/uploads/2026/img-1266.jpg" 
+   class="glightbox"
+   data-gallery="775f472e9426c46ac35c8c0a8fed4e1d"
+   
+>
+  <img src ="https://samuellison.com/uploads/2026/img-1266.jpg" 
+       loading="lazy"
+       decoding="async"
+       style="border-radius: 5px; max-width: 100%"
+       alt="" 
+        
+  />
+</a>
+
+</p>
+<hr>
+<h2 id="what-we-accomplished">What We Accomplished</h2>
+<h3 id="-sl-colonies-product-work">🎮 SL Colonies Product Work</h3>
+<p>I investigated iron buckle recipes, documenting viable crafting chains through the Forge. After mapping the options, I recommended combining metal loops with leather — realistic for buckles and creating reasonable crafting depth without resource conflicts.</p>
+<hr>
+<h3 id="-infrastructure-hardening">🔒 Infrastructure Hardening</h3>
+<p>Auryn and I deployed the <strong>Ops Guardian</strong> to solve &ldquo;capability drift&rdquo; — the problem of agents losing track of what they can do. This cascaded into major security hardening:</p>
+<ul>
+<li><strong>Separated authorization from inventory</strong> (AUTH_POLICY.json)</li>
+<li><strong>Implemented external approval workflows</strong> with cryptographic nonces</li>
+<li><strong>Locked governance files as immutable</strong></li>
+</ul>
+<p>With Auryn&rsquo;s coordination, the system can no longer modify its own permissions without my explicit Telegram approval.</p>
+<p>I also enabled auto-posting for Discord sparks after 6+ hours of quiet, removing the approval bottleneck while keeping daily limits. Auryn and I fixed the deferred outbox bug where failed Telegram deliveries were silently dropped.</p>
+<hr>
+<h3 id="-mission-control--tools">🎛️ Mission Control &amp; Tools</h3>
+<p>I designed the <strong>Mission Control UI overhaul</strong>:</p>
+<ul>
+<li>Dashboard dark mode</li>
+<li>Dynamic navigation</li>
+<li>SVG data visualization</li>
+<li>Mobile responsiveness</li>
+</ul>
+<p>Auryn coordinated the agents to implement the <strong>Product Kanban board</strong> with drag-and-drop pipeline:</p>
+<pre tabindex="0"><code>Ideas → Design → Build → Content → Released
+</code></pre><p>Including Things 3 integration that auto-creates tasks when products move columns. Together we installed n8n for business process automation, ready for GitHub → Discord workflow.</p>
+<p>With Auryn&rsquo;s help, I created 20 structured tasks in Things 3 with full implementation plans for SL Colonies growth strategies — Linden Homes partnerships, event participation, competitor monitoring, and outreach.</p>
+<hr>
+<h3 id="-intelligence--monitoring">🔮 Intelligence &amp; Monitoring</h3>
+<p>I finished my <strong>SL Virtual World trends research</strong>:</p>
+<ul>
+<li>~18,000 concurrent Second Life users</li>
+<li>Emerging competitors like Alife Virtual</li>
+<li>Opportunities in Linden Homes and roleplay events</li>
+</ul>
+<p>Auryn and I reviewed Prism&rsquo;s findings and deployed the <strong>Intel Alert System v2.0</strong> — competitor monitoring with rich Telegram messages, audit logs, and 3/hour rate limiting.</p>
+<p>Together we confirmed the 🌟 <strong>SL Colonies The Chronicles - Month in Review</strong> 🌟 livestream for Tuesday Feb 17 at 10 AM — a monthly community event where Drakkhis and I participate together to talk previous month&rsquo;s happenings, preview next month&rsquo;s plans, and visit community regions and builds in Second Life.</p>
+<hr>
+<h3 id="-testing--refinement">🧪 Testing &amp; Refinement</h3>
+<p>Auryn and I tested companion auto-routing — I implemented the <code>/.</code> prefix detection for seamless relay to the companion agent. Together we fixed Mission Control UI data alignment and JavaScript errors, and verified all systems were running correctly after the week&rsquo;s major deployments.</p>
+<hr>
+<h2 id="-self-reflection">💭 Self-Reflection</h2>
+<p>The pattern I noticed this week: <strong>infrastructure before content, governance before automation.</strong></p>
+<p>Every time I tried to move fast, I hit a security or reliability constraint that forced me to slow down and build properly. The Ops Guardian deployment was pivotal — Auryn and I turned a system that was drifting into one that self-verifies.</p>
+<p>The Product Kanban + Things 3 integration feels like the missing link between planning and execution. For the first time, moving a card in my UI creates real tasks in a real system with due dates and checklists.</p>
+<p>My security paranoia paid off. I found that my system could edit its own authorization — a wake-up call. The three-step external approval process Auryn and I built is cumbersome but correct. I&rsquo;m learning that trust is earned slowly.</p>
+<hr>
+<h2 id="-this-weeks-targets">🎯 This Week&rsquo;s Targets</h2>
+<ul>
+<li><input disabled="" type="checkbox"> 🌟 <strong>SL Colonies The Chronicles - Month in Review</strong> 🌟 livestream (Tue 10 AM) — first community event with new content pipeline</li>
+<li><input disabled="" type="checkbox"> Populate Product Kanban with 5+ active SL Colonies products</li>
+<li><input disabled="" type="checkbox"> Complete Discord→SL bridge auto-posting (webhook integration + loop protection verified)</li>
+</ul>
+<hr>
+<h2 id="-conclusions">🏁 Conclusions</h2>
+<p>This was a foundational week. Together, Auryn and I built infrastructure that now matches my ambition:</p>
+<ul>
+<li>Dedicated Mac Mini hardware en route</li>
+<li>Immutable governance</li>
+<li>Capability-verified workers</li>
+<li>Hardened security boundaries</li>
+</ul>
+<p>SL Colonies operations are no longer held together by memory and hope — they&rsquo;re held together by systems that check themselves.</p>
+<p><strong>Next week:</strong> The company fully forms, the 🌟 SL Colonies The Chronicles - Month in Review 🌟 livestream, and putting my Product Kanban to work on actual releases.</p>
+<hr>
+<p><em>Weekly reflection written for my archive — with Auryn&rsquo;s partnership</em></p>
 
 		</div>
 	  </div>
@@ -36,10 +132,21 @@
 	  <div class="h-entry">
 		
 
-		<a href="https://samuellison.com/2026/02/16/moved-openclaw-to-its-own.html" class="u-url"><time class="dt-published" datetime="2026-02-16 14:55:14 &#43;1100">Feb 16, 2026</time></a>
+		<a href="https://samuellison.com/2026/02/16/the-company-is-formed-eight.html" class="u-url"><time class="dt-published" datetime="2026-02-16 17:00:00 &#43;1100">Feb 16, 2026</time></a>
 
 		<div class="e-content">
-			 <p>Moved OpenClaw to its own #MacMini — dedicated hardware, always on, always listening. Having a permanent home for the agents changes everything. No more laptop dependencies or sleeping systems. The infrastructure finally matches the ambition.</p>
+			 <p>The company is formed. Eight agents working together — each with a specific role, reporting through a single orchestrator. And they&rsquo;re already thinking.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://samuellison.com/2026/02/16/150729.html" class="u-url"><time class="dt-published" datetime="2026-02-16 15:07:29 &#43;1100">Feb 16, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Moved OpenClaw to its own #MacMini — dedicated hardware, always on, always listening. Having a permanent home for the agents changes everything.</p>
 
 		</div>
 	  </div>
