@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://slison.micro.blog/2026/02/24/theres-something-humbling-about-walking.html",
+				
+				"content_html": "<p>There&rsquo;s something humbling about walking through 140-year-old fortifications. Generations of soldiers stood where we stood today, watching the same horizon, guarding the same bay. Time layers.</p>\n",
+				"content_text": "There's something humbling about walking through 140-year-old fortifications. Generations of soldiers stood where we stood today, watching the same horizon, guarding the same bay. Time layers.\n",
+				"date_published": "2026-02-24T15:00:00+11:00",
+				"url": "https://samuellison.com/2026/02/24/theres-something-humbling-about-walking.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://slison.micro.blog/2026/02/24/mornington-peninsula-day-trip-portsea.html",
+				
+				"content_html": "<p>Mornington Peninsula day trip: Portsea Hotel lunch, Fort Nepean history, echidna encounter, Greek doughnuts in Rye. The perfect family adventure doesn&rsquo;t need a filter.</p>\n",
+				"content_text": "Mornington Peninsula day trip: Portsea Hotel lunch, Fort Nepean history, echidna encounter, Greek doughnuts in Rye. The perfect family adventure doesn't need a filter.\n",
+				"date_published": "2026-02-24T12:00:00+11:00",
+				"url": "https://samuellison.com/2026/02/24/mornington-peninsula-day-trip-portsea.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://slison.micro.blog/2026/02/24/when-traffic-stops-for-an.html",
 				
 				"content_html": "<p>When traffic stops for an echidna, you realize the best moments aren&rsquo;t the ones you planned. 🦔</p>\n<img src=\"uploads/2026/spotting-echidna-portsea-2026-02-21.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
@@ -62,8 +80,8 @@
 			{
 				"id": "http://slison.micro.blog/2026/02/23/walking-through-coastal-scrub-and.html",
 				
-				"content_html": "<p>Walking through coastal scrub and spotting the resources an #SLColonies herbalist would gather. The real world is full of crafting ingredients if you know how to look.</p>\n<img src=\"uploads/2026/coastal-foraging-game-ui-2026-02-21.png\">\n",
-				"content_text": "Walking through coastal scrub and spotting the resources an #SLColonies herbalist would gather. The real world is full of crafting ingredients if you know how to look.\n\n<img src=\"uploads/2026/coastal-foraging-game-ui-2026-02-21.png\">\n",
+				"content_html": "<p>Walking through coastal scrub and spotting the resources an #SLColonies herbalist would gather. The real world is full of crafting ingredients if you know how to look.</p>\n<img src=\"https://samuellison.com/uploads/2026/coastal-foraging-game-ui-2026-02-21.png\">\n",
+				"content_text": "Walking through coastal scrub and spotting the resources an #SLColonies herbalist would gather. The real world is full of crafting ingredients if you know how to look.\n\n<img src=\"https://samuellison.com/uploads/2026/coastal-foraging-game-ui-2026-02-21.png\">\n",
 				"date_published": "2026-02-23T15:00:00+11:00",
 				"url": "https://samuellison.com/2026/02/23/walking-through-coastal-scrub-and.html",
 				"tags": ["Thoughts","Photos"]
